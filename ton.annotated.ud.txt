@@ -1,0 +1,622 @@
+"<Teu>"
+	"Teu" v intrans
+"<ta>"
+	"ta" prn prepd p1 incl du
+"<ki>"
+	"ki" pr
+"<he>"
+	"he" sdef
+"<polise>"
+	"polise" n sg
+"<!>"
+	"!" sent
+
+"<Kilisimasi>"
+	"Kilisimasi" n 
+"<fiefia>"
+	"fiefia" adj postnom
+"<mo>"
+	"mo" pr
+	"mo" prn prepd p2 du
+"<ha>"
+	"ha" indef
+"<taʻu>"
+	"taʻu" n sg
+"<foʻou>"
+	"foʻou" adj postnom
+"<monūʻia>"
+	"monūʻia" adj
+"<Maʻu>"
+	"Maʻu" v trans
+"<ha>"
+	"ha" ind
+"<ʻaho>"
+
+	"ʻaho" n sg
+"<Pekia>"
+	"Pekia" n sg 
+"<fiefia>"
+	"fiefia" adj postnom
+"<.>"
+	"." sent
+
+"<Maʻu>"
+	"Maʻu" v trans
+"<ha>"
+	"ha" ind
+"<ʻaho>"
+	"ʻaho" n
+	"ʻaho" n sg
+	"ʻaho" n du
+	"ʻaho" n pl
+"<fiefie>"
+	"fiefie" adj
+"<.>"
+	"." sent
+
+"<Heʻikai>"
+	"Heʻikai" neg
+"<feʻunga>"
+	"feʻunga" v intrans
+"<ke>"
+	"ke" prn prepd p2 sg
+"<ʻilo>"
+	"ʻilo" v trans
+"<ha>"
+	"ha" ind
+"<lea>"
+	"lea" n sg
+"<ʻe>"
+	"ʻe" erg
+"<taha>"
+	"taha" adj
+"<.>"
+	"." sent
+
+"<Hoku>"
+	"hoku" prn poss def p1 excl sg ordinary
+"<vakapuna>"
+	"vakapuna" n sg
+"<tētē>"
+	"tētē" v intrans
+"<ʻi>"
+	"ʻi" pr
+"<ʻolunga>"
+	"ʻolunga" pr
+"<fono>"
+	"fono" n s
+"<ʻi>"
+	"ʻi" pr
+"<he>"
+	"he" sdef
+"<toke>"
+	"toke" n
+"<.>"
+	"." sent
+
+"<Ta>"
+	"ta" prn prepd p1 incl du
+"<naʻe>"
+	"naʻe" vaux past
+"<haʻu>"
+	"*haʻu"
+"<eni>"
+	"eni" prn
+"<fuʻu>"
+	"fuʻu" adj prenom
+"<maka>"
+	"maka" n
+"<,>"
+	"," cm
+"<tuʻu>"
+	"tuʻu" v intrans
+"<matafale>"
+	"matafale" n sg
+"<,>"
+	"," cm
+"<ta>"
+	"ta" prn prepd p1 incl du
+"<koe>"
+	"koe" prn postd p2 sg
+"<mala>"
+	"mala" n sg
+"<;>"
+	";" sent
+"<koefe>"
+	"*koefe"
+"<hoto>"
+	"hoto" prn poss def p1 incl sg ordinary
+"<otu>"
+	"*otu"
+"<takanga>"
+	"takanga" v intrans
+"<,>"
+	"," cm
+"<mo>"
+	"mo" pr
+	"mo" prn prepd p2 du
+"<nai>"
+	"nai" adv
+"<faʻe>"
+	"faʻe" n (sg or pl?)
+"<naʻe>"
+	"naʻe" vaux past
+"<paemaka>"
+	"paemaka" pae = v trans maka = n
+"<?>"
+	"?" sent
+
+"<Fakaʻamu>"
+	"Fakaʻamu" v intrans
+"<ʻa>"
+	"ʻa" abs
+	"ʻa" adj postnom
+"<Vai>"
+	"vai" n
+	"vai" n sg
+	"vai" n du
+	"vai" n pl
+"<->"
+	"-" guio
+"<tokelau>"
+	"tokelau" adj
+"<,>"
+	"," cm
+"<ʻoku>"
+	"ʻoku" vaux pres
+"<tapu>"
+	"tapu" adj
+"<e>"
+	"e" def
+	"e" sdef
+"<lotoʻa>"
+	"lotoʻa"  = preceding word + abs 
+"<e>"
+	"e" def
+	"e" sdef
+"<valu>"
+	"valu" n sg
+"<,>"
+	"," cm
+"<pea>"
+	"pea" n
+	"pea" n sg
+	"pea" n du
+	"pea" n pl
+"<apu>"
+	"*apu"
+"<moe>"
+	"moe" v intrans
+"<vai>"
+	"vai" n
+	"vai" n sg
+	"vai" n du
+	"vai" n pl
+"<kaukau>"
+	"kaukau" n sg
+"<;>"
+	";" sent
+"<ka>"
+	"ka" n sg
+"<ʻoku>"
+	"ʻoku" vaux pres
+"<ke>"
+	"ke" prn prepd p2 sg
+"<ʻita>"
+	"ʻita" adj
+"<pea>"
+	"pea" n
+	"pea" n sg
+	"pea" n du
+	"pea" n pl
+"<foki>"
+	"foki" v intrans
+"<atu>"
+	"atu" adv
+"<.>"
+	"." sent
+
+"<Hoto>"
+	"hoto" prn poss def p1 incl sg ordinary
+"<ʻofa>"
+	"ʻofa" n sg
+"<talai>"
+	"*talai"
+"<ki>"
+	"ki" pr
+"<he>"
+	"he" def
+	"he" sdef
+"<matangi>"
+	"matangi" n sg
+"<;>"
+	";" sent
+"<he>"
+	"he" def
+	"he" sdef
+"<meʻa>"
+	"*meʻa"
+"<koa>"
+	"*koa"
+"<he>"
+	"he" def
+	"he" sdef
+"<hua>"
+	"*hua" n sg
+"<ʻo>"
+	"*ʻo"
+"<hai>"
+	"hai" prn
+"<,>"
+	"," cm
+"<ʻa>"
+	"ʻa" abs
+	"ʻa" adj postnom
+"<etau>"
+	"*etau"
+"<nonofo>"
+	"*nonofo"
+"<he>"
+	"he" def
+	"he" sdef
+"<fonua>"
+	"*fonua"
+"<ni>"
+	"ni" det
+"<?>"
+	"?" sent
+
+"<Sani>"
+	"*Sani"
+"<mai>"
+	"*mai"
+"<e>"
+	"e" def
+	"e" sdef
+"<fanga>"
+	"fanga" cl pl
+"<ko>"
+	"ko" pr
+"<Kei>"
+	"*Kei"
+"<->"
+	"-" guio
+"<tahi>"
+	"*tahi"
+"<,>"
+	"," cm
+"<moe>"
+	"*moe"
+"<ongo>"
+	"ongo" n
+	"ongo" n sg
+	"ongo" n du
+	"ongo" n pl
+	"ongo" cl du
+	"ongo" v trans
+	"ongo" v intrans
+"<ʻTausisi>"
+	"*ʻTausisi"
+"<->"
+	"-" guio
+"<vavaki>"
+	"*vavaki"
+"<->"
+	"-" guio
+"<->"
+	"-" guio
+"<kohai>"
+	"*kohai"
+"<koa>"
+	"*koa"
+"<kei>"
+	"*kei"
+"<lata>"
+	"lata" adj postnom
+"<ai>"
+	"*ai"
+"<?>"
+	"?" sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<nau>"
+	"nau" prn prepd p3 pl
+"<lata>"
+	"lata" adj postnom
+"<kinautolu>"
+	"kinautolu" prn postd p3 pl
+"<.>"
+	"." sent
+
+"<Ko>"
+	"ko" pr
+"<e>"
+	"e" def
+	"e" sdef
+"<ʻapi>"
+	"*ʻapi"
+"<pē>"
+	"pē" adv
+"<ʻoʻoku>"
+	"*ʻoʻoku"
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ou>"
+	"ou" prn prepd p1 pres excl sg
+"<kai>"
+	"kai" v trans
+	"kai" v intrans
+	"kai" v imp
+"<ika>"
+	"ika" n
+	"ika" n sg
+	"ika" n du
+	"ika" n pl
+"<.>"
+	"." sent
+ 
+"<Ko>"
+	"ko" pr
+"<hai>"
+	"*hai"
+"<ʻoku>"
+	"ʻoku" vaux pres
+"<ʻoʻona>"
+	"*ʻoʻona"
+"<e>"
+	"e" def
+	"e" sdef
+"<fale>"
+	"fale" n
+	"fale" n sg
+	"fale" n du
+	"fale" n pl
+"<ni>"
+	"ni" det
+"<?>"
+	"?" sent
+
+"<Fēfē>"
+	"fēfē" adv
+"<hake>"
+	"hake" pr
+"<?>"
+	"?" sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ma>"
+	"ma" prn prepd p1 excl du
+"<fiefia>"
+	"fiefia" adj postnom
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<kakau>"
+	"kakau" v trans
+	"kakau" v intrans
+"<ha>"
+	"ha" ind
+"<kuli>"
+	"kuli" n
+	"kuli" n sg
+	"kuli" n du
+	"kuli" n pl
+"<pea>"
+	"pea" n
+	"pea" n sg
+	"pea" n du
+	"pea" n pl
+"<ha>"
+	"ha" ind
+"<poto>"
+	"poto" n
+	"poto" n sg
+	"poto" n du
+	"poto" n pl
+"<.>"
+	"." sent
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<puke>"
+	"puke" adj postnom
+"<'>"
+	"'" apos
+"<a>"
+	"*a"
+"<e>"
+	"e" def
+	"e" sdef
+"<fanga>"
+	"fanga" cl pl
+"<kuli>"
+	"kuli" n
+	"kuli" n sg
+	"kuli" n du
+	"kuli" n pl
+"<.>"
+	"." sent
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻuliʻuli>"
+	"ʻuliʻuli" adj postnom
+"<e>"
+	"e" def
+	"e" sdef
+"<ongo>"
+	"ongo" n
+	"ongo" n sg
+	"ongo" n du
+	"ongo" n pl
+	"ongo" cl du
+	"ongo" v trans
+	"ongo" v intrans
+"<puaka>"
+	"puaka" n
+	"puaka" n sg
+	"puaka" n du
+	"puaka" n pl
+"<.>"
+	"." sent
+ 
+"<Sai>"
+	"sai" adj postnom
+"<pē>"
+	"pē" adv
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ou>"
+	"ou" prn prepd p1 pres excl sg
+"<tamateʻi>"
+	"tamateʻi" v trans
+	"tamateʻi" v intrans
+"<e>"
+	"e" def
+	"e" sdef
+"<ʻanga>"
+	"*ʻanga"
+"<.>"
+	"." sent
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<tau>"
+	"tau" v trans
+	"tau" v intrans
+	"tau" prn prepd p1 incl pl
+"<ilifia>"
+	"ilifia" adj postnom
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<fuʻu>"
+	"fuʻu" adj prenom
+"<e>"
+	"e" def
+	"e" sdef
+"<tamasiʻi>"
+	"tamasiʻi" n
+	"tamasiʻi" n sg
+	"tamasiʻi" n du
+	"tamasiʻi" n pl
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻa>"
+	"ʻa" abs
+	"ʻa" adj postnom
+"<e>"
+	"e" def
+	"e" sdef
+"<tamasiʻi>"
+	"tamasiʻi" n
+	"tamasiʻi" n sg
+	"tamasiʻi" n du
+	"tamasiʻi" n pl
+"<.>"
+	"." sent
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻikai>"
+	"ʻikai" neg
+"<te>"
+	"te" vaux fti
+	"te" prn prepd p1 incl sg
+"<ke>"
+	"ke" prn prepd p2 sg
+"<fiefia>"
+	"fiefia" adj postnom
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻikai>"
+	"ʻikai" neg
+"<ke>"
+	"ke" prn prepd p2 sg
+"<puke>"
+	"puke" adj postnom
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻikai>"
+	"ʻikai" neg
+"<ke>"
+	"ke" prn prepd p2 sg
+"<vaivai>"
+	"vaivai" adj postnom
+"<.>"
+	"." sent
+
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ou>"
+	"ou" prn prepd p1 pres excl sg
+"<inu>"
+	"inu" v trans
+	"inu" v intrans
+"<vai>"
+	"vai" n
+	"vai" n sg
+	"vai" n du
+	"vai" n pl
+"<.>"
+	"." sent
+ 
+"<ʻOku>"
+	"ʻoku" vaux pres
+"<ʻuha>"
+	"ʻuha" v trans
+	"ʻuha" v intrans
+"<.>"
+	"." sent
+ 
+‘
+"<Oku>"
+	"*Oku"
+"<vela>"
+	"vela" adj postnom
+"<ʻaupito>"
+	"ʻaupito" adj postnom
+ ‘
+"<i>"
+	"*i"
+"<he>"
+	"he" def
+	"he" sdef
+ ‘
+"<aho>"
+	"*aho"
+"<ni>"
+	"ni" det
+"<.>"
+	"." sent
+ 
+"<Siʻaku>"
+	"siʻaku" prn poss ind p1 excl sg emotional
+"<puaka>"
+	"puaka" n sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+ 
+

@@ -1,0 +1,337 @@
+# sent_id = prefix:1:0
+# text = tusanevesie
+1	tusanevesie	sanevesie	_	adj	p1|du|incl	0	root	_	_
+
+# sent_id = prefix:2:2
+# text = piota va
+1	piota	pota	_	adj	p3|sg	0	root	_	_
+2	va	va	_	neg	_	1	advmod	_	_
+
+# sent_id = prefix:3:7
+# text = setisanevesie
+1	setisanevesie	sanevesie	_	adj	p3|pl|hum	0	root	_	_
+
+# sent_id = prefix:4:10
+# text = pimunapat
+1	pimunapat	pimuna	_	n	p1|sg|poss	0	root	_	_
+
+# sent_id = prefix:5:13
+# text = wonapasiat sipota
+1	wonapasiat	wona	_	n	pl|def	2	nsubj	_	_
+2	sipota	pota	_	adj	p3|pl|nohum	0	root	_	_
+
+# sent_id = prefix:6:18
+# text = setikaviora
+1	setikaviora	kaviora	_	adj	p3|pl|hum	0	root	_	_
+
+# sent_id = prefix:7:21
+# text =  amambekomamasare
+1	amambekomamasare	komasare	_	adj	p1|pl|excl	0	root	_	_
+
+# sent_id = prefix:8:24
+# text = Rebukipai tiauwapa
+1	Rebukipai	rebuki	_	n	sg|def	2	nsubj	_	_
+2	tiauwapa	tauwa	_	v	p3|sg|unacf	0	root	_	_
+
+# sent_id = prefix:9:29
+# text =  Yau iserei ayapaipa
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	iserei	serei	_	v	p1|sg	0	root	_	_
+3	ayapaipa	ayapaipa	_	n	unacf	2	nobj	_	_
+
+# sent_id = prefix:10:36
+# text =  Kue yapaima dite diadiva
+1	Kue	Kue	_	n	sg	4	nsubj	_	_
+2	yapaima	apai	_	v	p1|sg	1	acl	_	_
+3	dite	dite	_	pr	_	1	obl	_	_
+4	diadiva	adiva	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:11:45
+# text =  Ipanande sinitupai papopa iserawai
+1	Ipanande	panande	_	v	p1|sg	0	root	_	_
+2	sinitupai	sinitu	_	n	sg|def	1	obj	_	_
+3	papopa	papopa	_	pr	_	4	advcl	_	_
+4	iserawai	serawai	_	v	p1|sg	2	acl	_	_
+
+# sent_id = prefix:12:54
+# text =  Kodonei kota dias
+1	Kodonei	Kodonei	_	n	sg|def	3	nsubj	_	_
+2	kota	kota	_	adj	_	1	amod	_	_
+3	dias	as	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:13:61
+# text = Kodonei kiota
+1	Kodonei	Kodonei	_	n	sg|def	2	nsubj	_	_
+2	kiota	kota	_	adj	p3|sg	0	root	_	_
+
+# sent_id = prefix:14:66
+# text =  Yau irorasi
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	irorasi	rora	_	v	p1|sg	0	root	_	_
+
+# sent_id = prefix:15:71
+# text =  Yau irora wonapasi
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	irora	rora	_	v	p1|sg	0	root	_	_
+3	wonapasi	wonapasi	_	n	pl|def	2	obj	_	_
+
+# sent_id = prefix:16:78
+# text =  Yau irora si
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	irora	rora	_	v	p1|sg	0	root	_	_
+3	si	si	_	pr	p3|pl|nohum	2	obj	_	_
+
+# sent_id = prefix:17:85
+# text =  supota
+1	supota	pota	_	adj	p3|du	0	root	_	_
+
+# sent_id = prefix:18:88
+# text =  sumbavu
+1	sumbavu	bavu	_	v	p3|du	0	root	_	_
+
+# sent_id = prefix:19:91
+# text =  mararia torua nesia sembaba
+1	mararia	mararia	_	n	pl|def	4	nsubj	_	_
+2	torua	torua	_	pr	p3|tr	1	obl	_	_
+3	nesia	nesia	_	v	p3|pl	4	aux	_	_
+4	sembaba	ba	_	adj	p3|tr|int	0	root	_	_
+
+# sent_id = prefix:20:100
+# text =  Wona nei tunei tiane?
+1	Wona	wona	_	n	sg	3	nmod	_	_
+2	nei	nei	_	det	def	1	det	_	_
+3	tunei	tunei	_	n	_	4	nsubj	_	_
+4	tiane?	ane	_	v	hab	0	root	_	_
+
+# sent_id = prefix:21:109
+# text =  Yo yaniau we kavio Wamesa nei avemamo irina
+1	Yo	o	_	v	p1|sg	0	root	_	_
+2	yaniau	aniau	_	v	p1|sg	1	advcl	_	_
+3	we	we	_	t	_	4	aux	_	_
+4	kavio	kavio	_	v	_	1	advcl	_	_
+5	Wamesa	Wamesa	_	n	_	4	obj	_	_
+6	nei	nei	_	pr	_	8	advmod	_	_
+7	avemamo	avemamo	_	v	_	8	aux	_	_
+8	irina	rina	_	v	p1|sg	4	advcl	_	_
+
+# sent_id = prefix:22:126
+# text =  Ivavu so anio wa
+1	Ivavu	vavu	_	v	p1|sg	0	root	_	_
+2	so	so	_	pr	_	3	advmod	_	_
+3	anio	anio	_	n	sg	1	obj	_	_
+4	wa	wa	_	det	p1|sg|poss	3	det	_	_
+
+# sent_id = prefix:23:135
+# text =  Yo ivavore
+1	Yo	o	_	v	p1|sg	0	root	_	_
+2	ivavore	vavore	_	v	p1|sg	1	advcl	_	_
+
+# sent_id = prefix:24:140
+# text =  Yau yo ivavo
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	yo	o	_	v	p1|sg	0	root	_	_
+3	ivavo	vavo	_	v	p1|sg	2	advcl	_	_
+
+# sent_id = prefix:25:147
+# text =  moya
+1	moya	moya	_	v	_	0	root	_	_
+
+# sent_id = prefix:26:150
+# text =  Yo yaniau yape saira
+1	Yo	o	_	v	p1|sg	0	root	_	_
+2	yaniau	aniau	_	v	p1|sg	1	advcl	_	_
+3	yape	ape	_	v	p1|sg	2	advcl	_	_
+4	saira	saira	_	adv	_	3	advmod	_	_
+
+# sent_id = prefix:27:159
+# text =  Mia kota meto saira metaniau
+1	Mia	Mia	_	prn	p2|pl	3	nsubj	_	_
+2	kota	kota	_	q	_	1	X	_	_
+3	meto	o	_	v	p2|pl	0	root	_	_
+4	saira	saira	_	adv	_	5	advmod	_	_
+5	metaniau	aniau	_	v	p2|pl	3	advcl	_	_
+
+# sent_id = prefix:28:170
+# text =  Yau ibaie atuma katu
+1	Yau	yau	_	prn	p1|sg	0	nsubj	_	_
+2	ibaie	baie	_	v	p1|sg	0	root	_	_
+3	atuma	atuma	_	n	sg	2	obj	_	_
+4	katu	katu	_	adj	_	3	amod	_	_
+
+# sent_id = prefix:29:179
+# text =  Au buiri i
+1	Au	au	_	prn	p2|sg	2	nsubj	_	_
+2	buiri	biri	_	v	p2|sg	0	root	_	_
+3	i	i	_	prn	p3|sg	2	obj	_	_
+
+# sent_id = prefix:30:186
+# text =  Pimuna nei miaine ava diane dia
+1	Pimuna	pimuna	_	n	_	3	nsubj	_	_
+2	nei	nei	_	det	sg|def	1	det	_	_
+3	miaine	maine	_	adj	p3|pl	0	root	_	_
+4	ava	ava	_	conj	_	3	conj	_	_
+5	diane	ane	_	v	p3|sg	4	advcl	_	_
+6	dia	dia	_	n	_	5	obj	_	_
+
+# sent_id = prefix:31:199
+# text =  Kokori ponori nei ma dite ne
+1	Kokori	Kokori	_	n	_	2	nmod	_	_
+2	ponori	ponori	_	n	_	5	nsubj	_	_
+3	nei	nei	_	det	sg|def	2	det	_	_
+4	ma	ma	_	t	_	5	cop	_	_
+5	dite	dite	_	adj	p3|pl	0	root	_	_
+6	ne	ne	_	det	_	5	cop	_	_
+
+# sent_id = prefix:32:212
+# text =  Pibata ponori nei kiriria
+1	Pibata	Pibata	_	n	_	2	nmod	_	_
+2	ponori	ponori	_	n	_	4	nsubj	_	_
+3	nei	nei	_	det	sg|def	2	det	_	_
+4	kiriria	kiriria	_	adj	p3|sg	0	root	_	_
+
+# sent_id = prefix:33:221
+# text =  muna va
+1	muna	muna	_	v	p3|sg	0	root	_	_
+2	va	va	_	neg	_	1	advmod	_	_
+
+# sent_id = prefix:34:226
+# text =  wo munai
+1	wo	wo	_	v	_	0	root	_	_
+2	munai	munai	_	v	_	1	advcl	_	_
+
+# sent_id = prefix:35:231
+# text =  Uta nei sa muna va
+1	Uta	Uta	_	n	_	4	nsubj	_	_
+2	nei	nei	_	det	sg|def	1	det	_	_
+3	sa	sa	_	t	_	4	aux	_	_
+4	muna	muna	_	v	p3|sg	0	root	_	_
+5	va	va	_	neg	_	4	advmod	_	_
+
+# sent_id = prefix:36:242
+# text =  Raria katu nina si ma muna
+1	Raria	raria	_	n	_	6	nsubj	_	_
+2	katu	katu	_	adj	p3|sg	1	amod	_	_
+3	nina	nina	_	det	pl|def	1	det	_	_
+4	si	si	_	prn	p3|pl	1	obl	_	_
+5	ma	ma	_	t	_	6	aux	_	_
+6	muna	muna	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:37:255
+# text =  Kausapa nani muna ya te
+1	Kausapa	Kausapa	_	pr	_	2	advmod	_	_
+2	nani	nani	_	pr	_	3	csubj	_	_
+3	muna	muna	_	v	p3|sg	0	root	_	_
+4	ya	ya	_	adv	_	3	advmod	_	_
+5	te	te	_	t	_	3	aux	_	_
+
+# sent_id = prefix:38:266
+# text =  Buniau taun toyane
+1	Buniau	niau	_	v	p2|sg	3	advcl	_	_
+2	taun	taun	_	n	_	1	obj	_	_
+3	toyane	toyane	_	v	_	0	root	_	_
+
+# sent_id = prefix:39:273
+# text =  sandu sunai na Amerika
+1	sandu	sandu	_	pr	p3|du	2	nsubj	_	_
+2	sunai	nai	_	v	p3|du	0	root	_	_
+3	na	na	_	pr	_	4	advmod	_	_
+4	Amerika	Amerika	_	n	_	2	obj	_	_
+
+# sent_id = prefix:40:282
+# text =  muna tindi va
+1	muna	muna	_	v	p3|sg	0	root	_	_
+2	tindi	tindi	_	adv	_	1	advmod	_	_
+3	va	va	_	neg	_	1	advmod	_	_
+
+# sent_id = prefix:41:289
+# text =  toune muandu ya imanau yaniau
+1	toune	toune	_	n	_	4	nsubj	_	_
+2	muandu	muandu	_	n	du	1	obl	_	_
+3	ya	ya	_	adv	_	4	advmod	_	_
+4	imanau	manau	_	v	p1|sg	0	root	_	_
+5	yaniau	aniau	_	v	p1|sg	4	advcl	_	_
+
+# sent_id = prefix:42:300
+# text =  Wore pai disa ya
+1	Wore	Wore	_	n	_	3	nsubj	_	_
+2	pai	pai	_	det	_	1	det	_	_
+3	disa	disa	_	v	p3|sg	0	root	_	_
+4	ya	ya	_	adv	_	3	advmod	_	_
+
+# sent_id = prefix:43:309
+# text =  wore pai tiviare
+1	wore	wore	_	n	_	3	nsubj	_	_
+2	pai	pai	_	det	_	1	det	_	_
+3	tiviare	vare	_	n	p3|sg|hab	0	root	_	_
+
+# sent_id = prefix:44:316
+# text =  Yau ivui kavio Windesi
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	ivui	vui	_	v	p1|sg	0	root	_	_
+3	kavio	kavio	_	v	_	2	advcl	_	_
+4	Windesi	Windesi	_	n	_	3	obj	_	_
+
+# sent_id = prefix:45:325
+# text =  yimbuya
+1	yimbuya	imbuya	_	v	p1|sg|unacf	0	root	_	_
+
+# sent_id = prefix:46:328
+# text =  Yau iririot varami
+1	Yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	iririot	ririot	_	adj	_	0	root	_	_
+3	varami	varami	_	pr	_	2	advmod	_	_
+
+# sent_id = prefix:47:335
+# text =  Buo vitoi
+1	Buo	o	_	v	p2|sg	0	root	_	_
+2	vitoi	vitoi	_	n	_	1	obj	_	_
+
+# sent_id = prefix:48:340
+# text =  Seto vitoi
+1	Seto	o	_	v	p3|pl|hum	0	root	_	_
+2	vitoi	vitoi	_	n	_	1	obj	_	_
+
+# sent_id = prefix:49:345
+# text =  vienadi
+1	vienadi	nadi	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:50:348
+# text =  niadi
+1	niadi	nadi	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:51:351
+# text =  yau yara
+1	yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	yara	ara	_	v	p1|sg	0	root	_	_
+
+# sent_id = prefix:52:356
+# text =  imatai
+1	imatai	matai	_	adj	p1|sg	0	root	_	_
+
+# sent_id = prefix:53:359
+# text =  yau yane dia
+1	yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	yane	ane	_	v	p1|sg	0	root	_	_
+3	dia	dia	_	n	_	2	obj	_	_
+
+# sent_id = prefix:54:366
+# text =  i kota tiawa
+1	i	i	_	prn	p3|sg	3	nsubj	_	_
+2	kota	kota	_	q	_	1	clf	_	_
+3	tiawa	tawa	_	v	p3|sg	0	root	_	_
+
+# sent_id = prefix:55:373
+# text =  yau ikari wona.
+1	yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	ikari	kari	_	v	p1|sg	0	root	_	_
+3	wona.	wona	_	n	_	2	obj	_	_
+
+# sent_id = prefix:56:381
+# text = yau yurar
+1	yau	yau	_	prn	p1|sg	2	nsubj	_	_
+2	yurar	urar	_	v	p1|sg	0	root	_	_
+
+# sent_id = prefix:57:387
+# text = 
+
+

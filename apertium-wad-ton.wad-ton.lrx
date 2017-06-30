@@ -1,0 +1,116 @@
+<rules>
+  <!-- 
+    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
+    Add your own rules within <rule> here, using the resources below as a guide 
+  -->
+
+  <rule>
+    <match lemma="wind"/>
+    <match lemma="power" tags="n.*">
+      <select lemma="energía" tags="n.*"/>
+    </match>
+  </rule>
+
+
+  <rule><!-- fall -->
+    <!-- Babinpai antumpai sumatotap -->
+    <!-- The woman and the child fall -->
+    <or><!-- what words might be in its surrounding environment -->
+      <match lemma="antum" tags="*"/><!-- child -->
+      <match lemma="babin" tags="*"/><!-- woman -->
+      <match lemma="muan" tags="*"/><!-- man -->
+      <match lemma="kankani" tags="*"/><!-- eagle -->
+      <match lemma="bar" tags="*"/><!-- descend -->
+    </or>
+    <match lemma="matotap" tags="v.*">
+      <select lemma="tō" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule><!-- collapse -->
+    <!-- Aniopasiat simatotap -->
+    <!-- The houses are collapsing -->
+    <or><!-- what words might be in its surrounding environment -->
+      <match lemma="anio" tags="*"/><!-- house -->
+    </or>
+    <match lemma="matotap" tags="v.*">
+      <select lemma="holo" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.9"><!-- fall, default -->
+    <match lemma="matotap" tags="v.*">
+      <select lemma="tō" tags="v.*"/>
+    </match>
+  </rule>
+
+
+  <rule><!-- hunt -->
+    <!-- Imun pimuna -->
+    <!-- I hunt pigs -->
+    <match lemma="mun" tags="v.*">
+      <select lemma="fakaʻete" tags="v.*"/>
+    </match>
+    <or><!-- what words might be in its surrounding environment -->
+      <match lemma="pimuna" tags="*"/><!-- pig -->
+      <match lemma="dian" tags="*"/><!-- fish -->
+      <match lemma="suomus" tags="*"/><!-- shark -->
+    </or>
+  </rule>
+
+  <rule><!-- kill -->
+    <!-- Imun muanpai -->
+    <!-- I kill the man -->
+    <match lemma="mun" tags="v.*">
+      <select lemma="tāmateʻi" tags="v.*"/>
+    </match>
+    <or><!-- what words might be in its surrounding environment -->
+      <match lemma="muan" tags="*"/><!-- man -->
+      <match lemma="babin" tags="*"/><!-- woman -->
+      <match lemma="antum" tags="*"/><!-- child -->
+    </or>
+  </rule>
+
+  <rule weight="0.9"><!-- kill, default -->
+    <match lemma="mun" tags="v.*">
+      <select lemma="tāmateʻi" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule><!-- crawl -->
+    <!-- Antumpai diania -->
+    <!-- The baby crawls -->
+    <match lemma="ania" tags="v.*">
+      <select lemma="ngaolo" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule><!-- walk slowly -->
+  <!-- MIGHT CHANGE TO USE <not/> BLOCK -->
+    <!-- Muanpai diania -->
+    <!-- The man walks slowly -->
+    <or><!-- what words might be in its surrounding environment -->
+      <match lemma="dian" tags="*"/>
+      <match lemma="wona" tags="*"/>
+    </or>
+    <match lemma="ania" tags="v.*">
+      <select lemma="ʻalu" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule weight="0.9"><!-- walk slowly, default -->
+    <match lemma="ania" tags="v.*">
+      <select lemma="ʻalu" tags="v.*"/>
+    </match>
+  </rule>
+  
+
+</rules>
+
+<!-- 
+Resources: 
+    http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
+    http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
+    http://wiki.apertium.org/wiki/Lexical_selection
+    http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
+-->

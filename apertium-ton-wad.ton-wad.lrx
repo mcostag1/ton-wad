@@ -1,0 +1,175 @@
+  <!-- 
+  Sentences:
+*ʻOku ou angi e kakalu. (I blow the whistle.) 
+*ʻOku ou moloki e kakalu. (I step on a cricket.)
+*ʻOku tangi e valevale. (The baby cries.)
+*ʻOku ou tangi a fehuʻi. (I ask a question.)
+Reasons for each lexical selection explained on the wiki page.
+  -->
+
+<rules>
+
+  <!-- 
+    This rule chooses "siat" (3rd person plural human pronoun) as the translation of "heʻenau" when it is followed by any of the verbs: reflect, imagine, regret. The weight on this rule is .8 because it is more common to have the "human" form of the pronoun, than the "non-human" form.
+  -->
+  <rule weight="0.8">
+    <match lemma="heʻenau" tags="prn.*">
+      <select lemma="siat" tags="prn.*"/>
+    </match>  
+    <or>
+      <match lemma="mata-tangi"/> <!-- reflect -->
+      <match lemma="loto-taʻotaʻomia"/> <!-- imagine -->
+      <match lemma="loto-mamahi"/> <!-- regret -->
+    </or>  
+  </rule>
+
+  <!-- 
+    This rule chooses "si" (3rd person plural non-human pronoun) as the translation of "heʻenau" when it is followed by any of the verbs: . The weight on this rule is 1.2 because it is less common to have the "non-human" form of the pronoun, than the "human" form.
+  -->
+
+  <rule weight="1.2">
+    <match lemma="heʻenau" tags="prn.*">
+      <select lemma="si" tags="prn.*"/>
+    </match>  
+    <or>
+      <match lemma="mata-tangi"/> <!-- tearful -->
+      <match lemma="loto-taʻotaʻomia"/> <!-- depressed -->
+      <match lemma="loto-mamahi"/> <!-- sad -->
+      <match lemma="ongoongo fatamamahi"/> <!-- sad news -->
+    </or>  
+  </rule>
+
+  <!-- 
+    This rule chooses "maso" (to sit (location not specified)) as the translation of "nofo" (to sit) as the default translation. It is easier to specify when "masoi" should be selected, so we will define specific contexts for that translation, and make "maso" be the default translation for "nofo" (to sit).
+  -->
+
+  <rule weight="0.8">
+    <match lemma="nofo" tags="v">
+      <select lemma="maso" tags="v"/>
+    </match>  
+  </rule>
+
+  <!-- 
+    This rule chooses "masoi" (to sit ON something (location specified)) as the translation of "heʻenau" when it is followed by the preposition "on" or any of the following nouns: floor, chair, bed.
+  -->
+
+  <rule weight="1.2">
+    <match lemma="nofo" tags="v">
+      <select lemma="masoi" tags="v"/>
+    </match>
+    <or>
+      <match lemma="ʻi"/> <!-- prep - on -->
+      <match lemma="faliki"/> <!-- floor -->
+      <match lemma="sea"/> <!-- chair -->
+      <match lemma="mohenga"/> <!-- bed -->
+    </or> 
+  </rule>
+
+  <!-- 
+    This rule chooses "adiat" (to fish at night with a light) as the translation of "tau" (to fish for a specific fish). It is found only in very specific contexts (when immediately followed by the name of a fish NEVER just "ika" which is the generic term for fish).
+  -->
+
+  <rule weight="1.2">
+    <match lemma="tau" tags="v">
+      <select lemma="adiat" tags="v"/>
+    </match>
+    <or>
+      <match lemma="hapi"/> <!-- k.fish -->
+      <match lemma="taʻa"/> <!-- k. fish (red/edible) -->
+      <match lemma="ʻulutuki"/> <!-- k. fish -->
+      <match lemma="toke"/> <!-- sea eel -->
+    </or> 
+  </rule>
+
+  <!-- 
+    This rule chooses "mamu" (to fight) as the translation of "tau" (to fight in general) as the default. It is the more common translation, and the other is found only in very specific contexts (when immediately followed by the name of a fish NEVER just "ika" which is the generic term for fish). It should also be chosen when followed by the noun war or the prepositions "with", "against", and "for".
+  -->
+
+  <rule weight="0.8">
+    <match lemma="tau" tags="v">
+      <select lemma="mamu" tags="v"/>
+    </match>
+    <or>
+      <match lemma="mo"/> <!-- with -->
+      <match lemma="ki"/> <!-- against -->
+      <match lemma="maʻa"/> <!-- for -->
+    </or> 
+  </rule>
+
+
+  <!-- 
+    This rule chooses "sau" (to cry) as the translation of "tangi" when it is followed by any of the verbs: "to blow" (included in multiple forms", "to listen", "to hear", or any adjectives like "loud", "quiet". 
+  -->
+  <rule>
+    <match lemma="tangi" tags="v">
+      <select lemma="sau" tags="v"/>
+    </match>  
+    <or>
+      <match lemma="mata-tangi"/> <!-- tearful -->
+      <match lemma="loto-taʻotaʻomia"/> <!-- depressed -->
+      <match lemma="loto-mamahi"/> <!-- sad -->
+      <match lemma="ongoongo fatamamahi"/> <!-- sad news -->
+    </or>  
+  </rule>
+
+  <!-- 
+    This rule chooses "utanusara" (to ask) as the translation of "tangi" when it is followed by any of the verbs: "to blow" (included in multiple forms", "to listen", "to hear", or any adjectives like "loud", "quiet". 
+  -->
+  <rule>
+    <match lemma="tangi" tags="v">
+      <select lemma="utanusara" tags="v"/>
+    </match>
+    <or>
+      <match lemma="fehuʻi"/>  <!-- question -->
+      <match lemma="holo"/>     <!-- about -->
+    </or>
+
+  </rule>
+
+  <!-- *MORE COMMON TRANSLATION*
+    This rule chooses "sararer" (cricket) as the translation of "kakalu" when it is preceded by any of the verbs: "to kill", "to catch", "to step on", "to eat", or by any adjectives including "black" or "brown". 
+  -->
+  <rule>
+    <or>
+      <match lemma="kai"/> <!-- eat -->
+      <match lemma="moloki"/> <!-- to step on -->
+      <match lemma="po"/> <!-- to catch -->
+      <match lemma="tamateʻi"/> <!-- to kill -->
+      <match lemma="ʻuliʻuli"/> <!-- black -->
+    </or>
+    <match lemma="kakalu" tags="n"> 
+      <select lemma="sararer" tags="n"/>
+    </match>
+</rule>
+
+  <!-- 
+    This rule chooses "nginggisi" (whistle) as the translation of "kakalu" when it is preceded by any of the verbs: "to blow" (included in multiple forms", "to listen", "to hear", or any adjectives like "loud", "quiet". 
+  -->
+  <rule>
+     <or>
+      <match lemma="kuli"/> <!-- dog -->
+      <match lemma="longo"/> <!-- quiet -->    
+      <match lemma="angi"/> <!-- blow -->
+      <match lemma="ifi"/> <!-- blow -->
+      <match lemma="puhi"/> <!-- blow -->
+    </or>
+    <match lemma="kakalu" tags="n">
+      <select lemma="nginggisi" tags="n"/>
+    </match>    
+
+  </rule>
+
+
+
+
+
+</rules>
+
+<!-- 
+Resources: 
+    http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
+    http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
+    http://wiki.apertium.org/wiki/Lexical_selection
+    http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
+-->
+

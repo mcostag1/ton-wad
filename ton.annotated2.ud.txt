@@ -1,0 +1,241 @@
+"<naʻa>"
+	"naʻa" vaux past #1->2
+"<ku>"
+	"ku" prn prepd p1 fti excl pl @nsubj #2->3
+"<kaukau>"
+	"kaukau" v intrans @root #3->0
+"<he>"
+	"he" sdef @det #4->5
+"<vai>"
+	"vai" n sg @nmod #5->1
+"<ʻoku>"
+	"ʻoku" vaux pres
+"<ʻofa>"
+	"ʻofa" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<e>"
+	"e" sdef
+"<tamai>"
+	"tamai" n sg
+"<he>"
+	"he" sdef
+"<ʻofefine>"
+	"ʻofefine" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<lotomamahi>"
+	"lotomamahi" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<Sione>"
+	"Sione" n
+
+"<naʻe>"
+	"naʻe" vaux past
+"<tuli>"
+	"tuli" v trans
+"<ʻe>"
+	"ʻe" erg
+"<he>"
+	"he" sdef
+"<sikulele>"
+	"sikulele" n sg
+"<e>"
+	"e" sdef
+"<kuli>"
+	"kuli" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<tuli>"
+	"tuli" v trans
+"<au>"
+	"au" prn postd pl excl sg
+"<ʻe>"
+	"ʻe" erg
+"<he>"
+	"he" sdef
+"<kuli>"
+	"kuli" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<tuli>"
+	"tuli" v trans
+"<ʻe>"
+	"ʻe" vaux fti
+"<he>"
+	"he" sdef
+"<manupuna>"
+	"manupuna" n sg
+"<ʻa>"
+	"ʻa" abs
+"<e>"
+	"e" sdef
+"<sikulele>"
+	"sikulele" n sg
+
+"<naʻe>"
+	"naʻe" vaux past
+"<mohe>"
+	"mohe" v intrans
+"<e>"
+	"e" sdef
+"<kuli>"
+	"kuli" n sg
+"<ʻi>"
+	"ʻi" pr
+"<he>"
+	"he" sdef
+"<hala>"
+	"hala" n sg
+"<ʻi>"
+	"ʻi" pr
+"<he>"
+	"he" sdef
+"<hala>"
+	"hala" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<mohe>"
+	"mohe" v intrans
+"<e>"
+	"e" sdef
+"<kuli>"
+	"kuli" n sg
+"<ʻe>"
+	"ʻe" erg
+"<he>"
+	"he" sdef
+"<kuli>"
+	"kuli" n sg
+"<naʻa>"
+	"naʻa" vaux past
+"<ku>"
+	"ku" prn prepd p1 fti excl pl
+"<tuli>"
+	"tuli" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<e>"
+	"e" sdef
+"<kuli>"
+	"kuli" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<tuli>"
+	"tuli" v trans
+"<au>"
+	"au" prn postd pl excl sg
+"<ʻe>"
+	"ʻe" erg
+"<he>"
+	"he" sdef
+"<kuli>"
+	"kuli" n sg
+"<ʻoku>"
+	"ʻoku" vaux pres
+"<ʻi>"
+	"ʻi" pr
+"<ai>"
+	"ai" adj
+"<ha>"
+	"ha" ind
+"<maa>"
+	"maa" n sg
+
+"<naʻe>"
+	"naʻe" vaux past
+"<ʻikai>"
+	"ʻikai" neg
+"<ke>"
+	"ke" prn prepd p2 sg
+"<sio>"
+	"sio" v intrans 
+"<ʻa>"
+	"ʻa" abs
+"<sione>"
+	"sione" n
+"<ki>"
+	"ki" pr
+"<ha>"
+	"ha" ind
+"<taha>"
+	"taha" n sg
+
+"<naʻe>"
+	"naʻe" vaux past
+"<ʻalu>"
+	"ʻalu" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<sione>"
+	"sione" n
+"<naʻe>"
+	"naʻe" vaux past
+"<kai>"
+	"kai" v trans
+"<ʻe>"
+	"ʻe" erg
+"<sione>"
+	"sione" n
+"<ʻa>"
+	"ʻa" abs
+"<e>"
+	"e" sdef
+"<mango>"
+	"mango" n sg
+
+"<naʻe>"
+	"naʻe" vaux past
+"<ʻalu>"
+	"ʻalu" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<sione>"
+	"sione" n
+"<ki>"
+	"ki" pr
+"<Tonga>"
+	"Tonga" n
+
+"<naʻe>"
+	"naʻe" vaux past
+"<kai>"
+	"kai" v trans
+"<ʻe>"
+	"ʻe" erg
+"<sione>"
+	"sione" n
+"<ʻa>"
+	"ʻa" abs
+"<e>"
+	"e" sdef
+"<ika>"
+	"ika" n sg
+"<naʻe>"
+	"naʻe" vaux past
+"<tokoni>"
+	"tokoni" v intrans
+"<ʻa>"
+	"ʻa" abs
+"<sione>"
+	"sione" n
+"<ki>"
+	"ki" pr
+"<he>"
+	"he" sdef
+"<faiako>"
+	"faiako" n sg
+"<.>"
+	"." sent
+"<naʻe>"
+	"naʻe" vaux past
+"<motuʻa>" 
+	"motuʻa" adj prenom
+"<ʻeku>" 
+	"ʻeku" poss prn
+"<tohi>"
+	"tohi" n sg
+
+
+

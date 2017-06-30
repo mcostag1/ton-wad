@@ -1,0 +1,394 @@
+"<tusanevesie>"
+	"sanevesie" adj p1 du incl
+
+"<piota>"
+	"*piota"
+"<va>"
+	"va" v
+	"va" neg
+
+"<setisanevesie>"
+	"*setisanevesie"
+
+"<pimunapat>"
+	"pimuna" n p1 sg poss
+
+"<wonapasiat>"
+	"wona" n pl def
+"<sipota>"
+	"pota" adj p3 pl nohum
+
+"<setikaviora>"
+	"kaviora" v p1 sg p3 pl
+	"kaviora" v p1 sg p3 pl hum
+ 
+"<amambekomamasare>"
+	"*amambekomamasare"
+ 
+"<Rebukipai>"
+	"rebuki" n sg def
+"<tiauwapa>"
+	"*tiauwapa"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<iserei>"
+	"*iserei"
+"<ayapaipa>"
+	"*ayapaipa"
+ 
+"<Kue>"
+	"*Kue"
+"<yapaima>"
+	"*yapaima"
+"<dite>"
+	"*dite"
+"<diadiva>"
+	"*diadiva"
+ 
+"<Ipanande>"
+	"*Ipanande"
+"<sinitupai>"
+	"sinitu" n sg def
+"<papopa>"
+	"*papopa"
+"<iserawai>"
+	"*iserawai"
+ 
+"<Kodonei>"
+	"*Kodonei"
+"<kota>"
+	"*kota"
+"<dias>"
+	"as" v p3 sg
+
+"<Kodonei>"
+	"*Kodonei"
+"<kiota>"
+	"*kiota"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irorasi>"
+	"*irorasi"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irora>"
+	"rora" v p1 sg
+"<wonapasi>"
+	"*wonapasi"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irora>"
+	"rora" v p1 sg
+"<si>"
+	"*si"
+ 
+"<supota>"
+	"*supota"
+ 
+"<sumbavu>"
+	"*sumbavu"
+ 
+"<mararia>"
+	"*mararia"
+"<torua>"
+	"*torua"
+"<nesia>"
+	"*nesia"
+"<sembaba>"
+	"*sembaba"
+ 
+"<Wona>"
+	"wona" n
+"<nei>"
+	"*nei"
+"<tunei>"
+	"*tunei"
+"<tiane?>"
+	"ane" v hab ?sent
+ 
+"<Yo>"
+	"o" v p1 sg
+"<yaniau>"
+	"*yaniau"
+"<we>"
+	"*we"
+"<kavio>"
+	"*kavio"
+"<Wamesa>"
+	"*Wamesa"
+"<nei>"
+	"*nei"
+"<avemamo>"
+	"*avemamo"
+"<irina>"
+	"*irina"
+ 
+"<Ivavu>"
+	"*Ivavu"
+"<so>"
+	"*so"
+"<anio>"
+	"anio" n
+"<wa>"
+	"*wa"
+ 
+"<Yo>"
+	"o" v p1 sg
+"<ivavore>"
+	"*ivavore"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<yo>"
+	"o" v p1 sg
+"<ivavo>"
+	"*ivavo"
+ 
+"<moya>"
+	"*moya"
+ 
+"<Yo>"
+	"o" v p1 sg
+"<yaniau>"
+	"*yaniau"
+"<yape>"
+	"*yape"
+"<saira>"
+	"*saira"
+ 
+"<Mia>"
+	"*Mia"
+"<kota>"
+	"*kota"
+"<meto>"
+	"o" v p2 pl
+"<saira>"
+	"*saira"
+"<metaniau>"
+	"*metaniau"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<ibaie>"
+	"*ibaie"
+"<atuma>"
+	"*atuma"
+"<katu>"
+	"*katu"
+ 
+"<Au>"
+	"au" prn p2 sg
+"<buiri>"
+	"*buiri"
+"<i>"
+	"i" prn p3 sg
+ 
+"<Pimuna>"
+	"pimuna" n
+"<nei>"
+	"*nei"
+"<miaine>"
+	"*miaine"
+"<ava>"
+	"*ava"
+"<diane>"
+	"ane" v p3 sg
+"<dia>"
+	"*dia"
+ 
+"<Kokori>"
+	"*Kokori"
+"<ponori>"
+	"*ponori"
+"<nei>"
+	"*nei"
+"<ma>"
+	"*ma"
+"<dite>"
+	"*dite"
+"<ne>"
+	"*ne"
+ 
+"<Pibata>"
+	"*Pibata"
+"<ponori>"
+	"*ponori"
+"<nei>"
+	"*nei"
+"<kiriria>"
+	"*kiriria"
+ 
+"<muna>"
+	"muna" v
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<wo>"
+	"*wo"
+"<munai>"
+	"*munai"
+ 
+"<Uta>"
+	"*Uta"
+"<nei>"
+	"*nei"
+"<sa>"
+	"*sa"
+"<muna>"
+	"muna" v
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<Raria>"
+	"raria" n
+"<katu>"
+	"*katu"
+"<nina>"
+	"*nina"
+"<si>"
+	"*si"
+"<ma>"
+	"*ma"
+"<muna>"
+	"muna" v
+ 
+"<Kausapa>"
+	"*Kausapa"
+"<nani>"
+	"*nani"
+"<muna>"
+	"muna" v
+"<ya>"
+	"*ya"
+"<te>"
+	"*te"
+ 
+"<Buniau>"
+	"*Buniau"
+"<taun>"
+	"*taun"
+"<toyane>"
+	"*toyane"
+ 
+"<sandu>"
+	"*sandu"
+"<sunai>"
+	"*sunai"
+"<na>"
+	"*na"
+"<Amerika>"
+	"*Amerika"
+ 
+"<muna>"
+	"muna" v
+"<tindi>"
+	"*tindi"
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<toune>"
+	"*toune"
+"<muandu>"
+	"*muandu"
+"<ya>"
+	"*ya"
+"<imanau>"
+	"*imanau"
+"<yaniau>"
+	"*yaniau"
+ 
+"<Wore>"
+	"*Wore"
+"<pai>"
+	"pai" det
+"<disa>"
+	"*disa"
+"<ya>"
+	"*ya"
+ 
+"<wore>"
+	"*wore"
+"<pai>"
+	"pai" det
+"<tiviare>"
+	"*tiviare"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<ivui>"
+	"vui" v p1 sg
+"<kavio>"
+	"*kavio"
+"<Windesi>"
+	"Windesi" n
+ 
+"<yimbuya>"
+	"*yimbuya"
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<iririot>"
+	"*iririot"
+"<varami>"
+	"*varami"
+ 
+"<Buo>"
+	"o" v p2 sg
+"<vitoi>"
+	"*vitoi"
+ 
+"<Seto>"
+	"o" v p3 pl
+	"o" v p3 pl hum
+"<vitoi>"
+	"*vitoi"
+ 
+"<vienadi>"
+	"*vienadi"
+ 
+"<niadi>"
+	"*niadi"
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<yara>"
+	"*yara"
+ 
+"<imatai>"
+	"*imatai"
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<yane>"
+	"ane" v p1 sg
+"<dia>"
+	"*dia"
+ 
+"<i>"
+	"i" prn p3 sg
+"<kota>"
+	"*kota"
+"<tiawa>"
+	"*tiawa"
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<ikari>"
+	"*ikari"
+"<wona.>"
+	"wona" n .sent
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<yurar>"
+	"urar" v p1 sg
+
+
+

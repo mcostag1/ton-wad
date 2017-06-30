@@ -1,0 +1,2 @@
+
+  lt-proc -w '/home/swatstudent/Source/ling073-ton-wad/wad-ton.automorf.bin' | cg-proc -w '/home/swatstudent/Source/ling073-ton-wad/wad-ton.rlx.bin' | apertium-tagger -g $2 '/home/swatstudent/Source/ling073-ton-wad/wad-ton.prob' | apertium-pretransfer

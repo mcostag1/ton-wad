@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+   <!-- Define the alphabet below. -->
+  <alphabet>aAáÁăảạāÆbBcCčdDÐeEéèễệēfFgGhHiīIíjJkKlLmMnNoOóöớōpPqQrRsSšştTŢuUúüưūvVwWxXyYzZʻ</alphabet>
+
+  <sdefs>
+    <!-- Define symbol definitions within <sdef> here. -->
+    <sdef n="n"               c="Noun"/>
+    <sdef n="np"              c="Proper noun"/>
+    <sdef n="vblex"           c="Verb, lexical"/>
+    <sdef n="v" 	      c="Verb"/>
+    <sdef n="vbmod"           c="Modal verb"/>
+    <sdef n="vaux"            c="Auxiliary verb"/>
+    <sdef n="vbser"           c="'To be' verb"/>
+    <sdef n="vbhaver"         c="'To have' verb"/>
+    <sdef n="cnjsub"          c="Subordinating conjunction"/>
+    <sdef n="cnjcoo"          c="Co-ordinating conjunction"/>
+    <sdef n="cnjadv"          c="Adverbial conjunction"/>
+    <sdef n="pr"              c="Preposition"/>
+    <sdef n="adv"             c="Adverb"/>
+    <sdef n="ij"              c="Interjection"/>
+    <sdef n="adj"             c="Adjective"/>
+    <sdef n="prn"             c="Pronoun"/>
+    <sdef n="cl"              c="Classifier"/>
+    <sdef n="prepd"           c="Preposed"/>
+    <sdef n="postd"           c="Postposed"/>
+
+    <sdef n="attr"            c="Attributive"/>
+    <sdef n="top"             c="Toponym"/>
+    <sdef n="ant"             c="Anthroponym"/>
+    <sdef n="cog"             c="Cognomen"/>
+    <sdef n="org"             c="Organisation"/>
+    <sdef n="al"              c="Altres / misc proper nouns"/>
+
+    <sdef n="pers"            c="Personal pronoun"/>
+    <sdef n="ref"             c="Reflexive pronoun"/>
+    <sdef n="res"             c="Reciprocal pronoun"/>
+
+    <sdef n="det"             c="Determiner"/>
+    <sdef n="poss"             c="Possessive"/>
+
+    <sdef n="p1"              c="1st person"/>
+    <sdef n="p2"              c="2nd person"/>
+    <sdef n="p3"              c="3rd person"/>
+
+    <sdef n="incl"	         c="Inclusive"/>
+    <sdef n="excl"	         c="Exclusive"/>
+    <sdef n="nt"              c="Neuter"/>
+    <sdef n="ut"              c="Utrum"/>
+    <sdef n="f"               c="Feminine"/>
+    <sdef n="m"               c="Masculine"/>
+    <sdef n="un"              c="No gender"/>
+
+    <sdef n="ordinary"	      c="Ordinary"/>
+    <sdef n="emphatic"        c="Emphatic"/>
+    <sdef n="emotional"        c="Emotional"/>
+    <sdef n="sg"              c="Singular"/>
+    <sdef n="du"              c="Dual"/>
+    <sdef n="pl"              c="Plural"/>
+    <sdef n="sp"              c="Singular / plural"/>
+
+    <sdef n="ind"             c="Indefinite"/>
+    <sdef n="def"             c="Definite"/>
+    <sdef n="sdef"             c="Semi-Definite"/>
+
+    <sdef n="nom"             c="Nominative"/>
+    <sdef n="acc"             c="Accusative"/>
+    <sdef n="gen"             c="Genitive"/>
+
+    <sdef n="dem"             c="Demonstrative"/>
+    <sdef n="itg"             c="Question word / interrogative"/>
+    <sdef n="qnt"             c="Quantifier"/>
+    <sdef n="neg"             c="Negative"/>
+    <sdef n="emph"            c="Emphatic"/>
+
+    <sdef n="inf"             c="Infinitive"/>
+
+    <sdef n="pres"            c="Present"/>
+    <sdef n="imp"             c="Imperative"/>
+    <sdef n="fti"             c="Future"/>
+    <sdef n="pret"            c="Preterite"/>
+    <sdef n="pp"              c="Perfect participle"/>
+    <sdef n="pprs"            c="Present participle"/>
+    <sdef n="pasv"            c="Passive"/>
+    <sdef n="actv"            c="Active voice"/>
+
+    <sdef n="sint"            c="Synthetic (of adjectives)"/>
+    <sdef n="pst"             c="Positive"/>
+    <sdef n="comp"            c="Comparative"/>
+    <sdef n="sup"             c="Superlative"/>
+
+    <sdef n="ord"             c="Ordinal"/>
+    <sdef n="acr"             c="Acronym"/>
+    <sdef n="unc"             c="Uncountable"/>
+
+    <sdef n="num"             c="Numeral"/>
+    <sdef n="sent"            c="Sentence end"/>
+    <sdef n="cm"              c="Comma"/>
+    <sdef n="apos"            c="Apostrophe"/>
+    <sdef n="guio"            c="Dash"/>
+    <sdef n="lpar"            c="Left parenthesis"/>
+    <sdef n="rpar"            c="Right parenthesis"/>
+    <sdef n="lquot"           c="Left quote"/>
+    <sdef n="rquot"           c="Right quote"/>
+
+    <sdef n="compound-only-L" c="May only be the left-side of a compound"/>
+    <sdef n="compound-R"      c="May be the right-side of a compound, or a full word"/>
+  </sdefs>
+
+   <section id="main" type="standard">
+      <!-- Define entries within <e> here. -->
+      <e r="LR"><p><l>ʻoku<s n="vaux"/><s n="pres"/></l><r></r></p></e><!-- 'Oku = null -->
+      <e><p><l>nau<s n="prn"/><s n="prepd"/><s n="p3"/><s n="pl"/></l><r>siat<s n="prn"/></r></p></e><!-- them (plural) -->
+
+      <!-- they -->
+      <e><p><l>kinautolu<s n="prn"/><s n="postd"/><s n="p3"/><s n="pl"/></l><r></r></p></e>
+
+      <e><p><l>kai<s n="v"/></l><r>ane<s n="v"/></r></p></e><!-- to eat -->
+
+      <!-- to step on -->
+      <e><p><l>moloki<s n="v"/></l><r>tar<s n="v"/></r></p></e>
+
+      <!-- fish -->
+      <e><p><l>ika<s n="n"/></l><r>dian<s n="n"/></r></p></e>
+      <!-- question -->
+      <e><p><l>fehuʻi<s n="n"/></l><r></r></p></e>
+      
+      <!-- house -->
+      <e><p><l>fale<s n="n"/></l><r>anio<s n="n"/></r></p></e>
+    <!-- baby -->
+      <e><p><l>valevale<s n="n"/></l><r></r></p></e>
+
+      <e><p><l>kakalu<s n="n"/></l><r>nginggisi<s n="n"/></r></p></e><!-- whistle -->
+      <e><p><l>kakalu<s n="n"/></l><r>sararer<s n="n"/></r></p></e><!-- large cricket/cicada -->
+
+
+      <!-- <e><p><l>ni<s n=""/></l><r><s n=""/></r></p></e> -->
+
+ <!-- tearful -->
+      <e><p><l>mata-tangi<s n="adj"/></l><r></r></p></e>
+
+      <!-- how -->
+      <e r="LR"><p><l>fēfē<s n="adv"/></l><r></r></p></e>
+
+      <!-- upwards -->
+      <e><p><l>hake<s n="pr"/></l><r>re<s n="pr"/></r></p></e>
+      <e><p><l>holo<s n="pr"/></l><r></r></p></e> <!-- about -->
+      <e><p><l>tangi<s n="v"/></l><r>utanusara<s n="v"/></r></p></e> <!-- to ask/appeal -->
+      <e><p><l>tangi<s n="v"/></l><r>sau<s n="v"/></r></p></e> <!-- to cry/weep -->
+
+      <e><p><l>angi<s n="v"/></l><r></r></p></e> <!-- to ask/appeal -->
+
+      <!-- to swim -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <!-- !! One instance of ton-wad multimapping !! -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <e><p><l>kakau<s n="v"/></l><r>as<s n="v"/></r></p></e>
+      <e r="RL"><p><l>kakau<s n="v"/></l><r>kubira<s n="v"/></r></p></e>
+
+      <!-- we dual exclusive *just the tags in wamesa = 'ma' -->
+      <e r="LR"><p><l>ma<s n="prn"/><s n="prepd"/><s n="p1"/><s n="excl"/><s n="du"/></l><r></r></p></e>
+
+      <!-- Happy: fiefia = happy, happy == lata -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <!-- !! One instance of wad-ton multimapping !! -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <e r="LR"><p><l>fiefia<s n="adj"/></l><r>sanevesie<s n="adj"/></r></p></e>
+      <e><p><l>lata<s n="adj"/></l><r>sanevesie<s n="adj"/></r></p></e>
+
+      <!-- dog -->
+      <e><p><l>kuli<s n="n"/></l><r>wona<s n="n"/></r></p></e>
+
+      <!-- sick -->
+      <e><p><l>puke<s n="adj"/></l><r>pota<s n="adj"/></r></p></e>
+
+      <!--  -->
+      <e r="LR"><p><l>ʻa<s n="adj"/></l><r></r></p></e>
+
+      <!-- plural animal: fanga = pl, ngaahi == pl -->
+      <e r="LR"><p><l>fanga<s n="cl"/><s n="pl"/></l><r></r></p></e>
+      <e r="LR"><p><l>ngaahi<s n="cl"/><s n="pl"/></l><r></r></p></e>
+
+      <!-- black -->
+      <e><p><l>ʻuliʻuli<s n="adj"/></l><r>meta<s n="adj"/></r></p></e>
+
+      <!-- dual marker -->
+      <e r="LR"><p><l>ongo<s n="cl"/><s n="du"/></l><r></r></p></e>
+
+      <!-- pig -->
+      <e><p><l>puaka<s n="n"/></l><r>pimuna<s n="n"/></r></p></e>
+
+      <!-- not -->
+      <e><p><l>ʻikai<s n="neg"/></l><r>va<s n="neg"/></r></p></e>
+
+      <!-- possession: si'aku = -pat, haku == -pat -->
+      <e><p><l>haku<s n="prn"/><s n="poss"/><s n="ordinary"/></l><r></r></p></e>
+      <e><p><l>siʻaku<s n="prn"/><s n="poss"/><s n="emotional"/></l><r></r></p></e>
+
+      <!-- the -->
+      <e r="LR"><p><l>e<s n="def"/></l><r></r></p></e>
+
+      <!--1sg  -->
+      <e><p><l>ou<s n="prn"/><s n="prepd"/><s n="p1"/><s n="pres"/><s n="excl"/><s n="sg"/></l><r>yau<s n="prn"/><s n="p1"/><s n="sg"/></r></p></e>
+
+      <!-- to kill -->
+      <e><p><l>tamateʻi<s n="v"/></l><r>mun<s n="v"/></r></p></e>
+
+      <!-- shark -->
+      <e><p><l>anga<s n="n"/></l><r>suomus<s n="n"/></r></p></e>
+
+      <!-- afraid -->
+      <e><p><l>ilifia<s n="adj"/></l><r>matai<s n="adj"/></r></p></e>
+
+      <!--  -->
+      <e r="LR"><p><l>ke<s n="prn"/><s n="prepd"/><s n="p2"/><s n="sg"/></l><r></r></p></e> 
+
+      <!-- and -->
+      <e r="LR"><p><l>pea<s n="adj"/></l><r><s n="adj"/></r></p></e>
+
+      <!-- the (semi-definite) -->
+      <e r="LR"><p><l>he<s n="sdef"/></l><r></r></p></e>
+
+      <!-- hot, warm, burnt -->
+      <e><p><l>vela<s n="adj"/></l><r>imase<s n="adj"/></r></p></e>
+
+      <!-- very -->
+      <e r="LR"><p><l>ʻaupito<s n="adj"/></l><r></r></p></e>
+
+      <!-- old, weak -->
+      <e><p><l>vaivai<s n="adj"/></l><r>mitu<s n="adj"/></r></p></e>
+
+      <!-- child -->
+      <e><p><l>tamasiʻi<s n="n"/></l><r>antum<s n="n"/></r></p></e>
+
+      <!-- frog -->
+      <e><p><l>poto<s n="n"/></l><r>kodo<s n="n"/></r></p></e>
+
+
+      <!-- water -->
+      <e><p><l>vai<s n="n"/></l><r></r></p></e>
+
+	<!-- fruit -->
+      <e><p><l>foʻi<b/>ʻakau<s n="n"/></l><r>bo<s n="n"/></r></p></e>
+
+
+      <!-- mouth -->
+      <e><p><l>ngutu<s n="n"/></l><r>sore<s n="n"/></r></p></e>
+      <!-- eye -->
+      <e><p><l>mata<s n="n"/></l><r>re<s n="n"/></r></p></e>
+
+      <!-- to drink -->
+      <e><p><l>inu<s n="v"/></l><r>unu<s n="v"/></r></p></e>
+
+      <!-- to come -->
+      <e><p><l>ōmai<s n="v"/></l><r>rama<s n="v"/></r></p></e>
+
+      <!-- to catch -->
+      <e><p><l>po<s n="v"/></l><r>unu<s n="v"/></r></p></e>
+
+      <!-- to burn -->
+      <e><p><l>tutu<s n="v"/></l><r>nunum<s n="v"/></r></p></e>
+
+      <!-- to go -->
+      <e><p><l>ʻalu<s n="v"/></l><r>ra<s n="v"/></r></p></e>
+
+      <!-- at -->
+      <e r="LR"><p><l>ʻi<s n="pr"/></l><r><s n="pr"/></r></p></e>
+
+      <!-- a/an (indefinite) -->
+      <e r="LR"><p><l>ha<s n="ind"/></l><r><s n="ind"/></r></p></e>
+
+      <!-- who -->
+      <e><p><l>hai<s n="prn"/></l><r>niewi<s n="prn"/></r></p></e>
+
+      <!-- day -->
+      <e><p><l>ʻaho<s n="n"/></l><r>raria<s n="n"/></r></p></e>
+
+      <!-- big -->
+      <e><p><l>fuʻu<s n="adj"/></l><r>ba<s n="adj"/></r></p></e>
+
+      <!-- good, fine -->
+      <e><p><l>sai<s n="adj"/></l><r>vesie<s n="adj"/></r></p></e>
+
+      <!-- rain -->
+      <e><p><l>ʻuha<s n="v"/></l><r>muna<s n="v"/></r></p></e>
+
+      <!-- sea, ocean -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <!-- !! One instance of ton-wad multimapping !! -->
+      <!-- !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! -->
+      <!-- <e><p><l>sasi<s n="n"/></l><r>moana<s n="n"/></r></p></e> -->
+      <e><p><l>moana<s n="n"/></l><r>sasi<s n="n"/></r></p></e>
+      <e r="RL"><p><l>moana<s n="n"/></l><r>rawanam<s n="n"/></r></p></e>
+
+      <!-- only -->
+      <e r="LR"><p><l>pē<s n="adv"/></l><r></r></p></e>
+
+      <!-- his/hers -->
+      <e r="LR"><p><l>ʻoʻona<s n="prn"/><s n="poss"/><s n="p3"/><s n="sg"/><s n="emphatic"/></l><r></r></p></e>
+
+      <!-- indicating identity -->
+      <e r="LR"><p><l>ko<s n="pr"/></l><r></r></p></e>
+
+      <!-- this, these or them -->
+      <e><p><l>ni<s n="det"/></l><r>nini<s n="det"/></r></p></e>
+
+      <!-- future tense marker -->
+      <e r="LR"><p><l>te<s n="vaux"/><s n="fti"/></l><r></r></p></e>
+
+	<e><p><l>lango<s n="n"/></l><r>amumar<s n="n"/></r></p></e><!-- fly -->
+<e><p><l>ʻakau<s n="n"/></l><r>ai<s n="n"/></r></p></e><!-- tree -->
+<e><p><l>longolongo<s n="n"/></l><r>ai kusa<s n="n"/></r></p></e><!-- tree-fern -->
+<e><p><l>fefie<s n="n"/></l><r>ai<s n="n"/></r></p></e><!-- wood -->
+<e><p><l>mohenga<s n="n"/></l><r>ai pata<s n="n"/></r></p></e><!-- bed -->
+<e><p><l>vao<s n="n"/></l><r>ai raro<s n="n"/></r></p></e><!-- forest -->
+<e><p><l>kangikalū<s n="n"/></l><r>amor<s n="n"/></r></p></e><!-- kangaroo -->
+<e><p><l>fala<s n="n"/></l><r>andiu<s n="n"/></r></p></e><!-- mat -->
+<e><p><l>laime<s n="n"/></l><r>anggara<s n="n"/></r></p></e><!-- lime -->
+<e><p><l>lemani<s n="n"/></l><r>anggara<s n="n"/></r></p></e><!-- lemon -->
+<e><p><l>ngaolo<s n="v"/></l><r>ania<s n="v"/></r></p></e><!-- crawl -->
+<e><p><l>ʻalu<s n="v"/></l><r>ania<s n="v"/></r></p></e><!-- walk slowly -->
+<e><p><l>kolo<s n="n"/></l><r>aniose<s n="n"/></r></p></e><!-- village -->
+<e><p><l>tali<s n="v"/></l><r>anote<s n="v"/></r></p></e><!-- wait -->
+<e><p><l>‘āpele<s n="n"/></l><r>apel<s n="n"/></r></p></e><!-- apple -->
+<e><p><l>fale-lotu<s n="n"/></l><r>ari<s n="n"/></r></p></e><!-- church (building) -->
+<e><p><l>Sasi<s n="n"/></l><r>ari<s n="n"/></r></p></e><!-- church (organization) -->
+<e><p><l>longo<s n="adj"/></l><r>asisi<s n="adj"/></r></p></e><!-- good -->
+<e><p><l>fake<s n="adj"/></l><r>atai<s n="adj"/></r></p></e><!-- silent -->
+<e><p><l>lelei <s n="n"/></l><r>ate<s n="n"/></r></p></e><!-- good -->
+<e><p><l>fake’ofo’ofa<s n="adj"/></l><r>ate<s n="adj"/></r></p></e><!-- beautiful -->
+<e><p><l>tuitui<s n="v"/></l><r>aware<s n="v"/></r></p></e><!-- to sew -->
+<e><p><l>faliki<s n="n"/></l><r>dui<s n="n"/></r></p></e><!-- floor -->
+<e><p><l>faka’ānaua<s n="v"/></l><r>ena mia<s n="v"/></r></p></e><!-- to dream (to long for) -->
+<e><p><l>fingota<s n="n"/></l><r>kama<s n="n"/></r></p></e><!-- spiral shell (shell fish) -->
+<e><p><l>fingota<s n="n"/></l><r>pirie teri<s n="n"/></r></p></e><!-- shell (eaten) -->
+<e><p><l>faka-Suva<s n="n"/></l><r>karavi<s n="n"/></r></p></e><!-- unmarried woman -->
+<e><p><l>feo<s n="n"/></l><r>kare<s n="n"/></r></p></e><!-- coral -->
+<e><p><l>kofe<s n="n"/></l><r>karie<s n="n"/></r></p></e><!-- bamboo -->
+<e><p><l>paka<s n="n"/></l><r>kasasai<s n="n"/></r></p></e><!-- land crab (crab) -->
+<e><p><l>hulufe<s n="n"/></l><r>kusuvei rau<s n="n"/></r></p></e><!-- fern (no general term in Tongan) -->
+<e><p><l>hakato<s n="n"/></l><r>kusuvei rau<s n="n"/></r></p></e><!-- fern (no general term in Tongan) -->
+<e><p><l>kulutuma<s n="n"/></l><r>kusuvei rau<s n="n"/></r></p></e><!-- fern (no general term in Tongan) -->
+<e><p><l>papaka<s n="v"/></l><r>mamaya<s n="v"/></r></p></e><!-- shy -->
+<e><p><l>mā<s n="v"/></l><r>mamaya<s n="v"/></r></p></e><!-- ashamed -->
+<e><p><l>tau<s n="v"/></l><r>mamu<s n="v"/></r></p></e><!-- to fight -->
+<e><p><l>kofe<s n="n"/></l><r>mamura<s n="n"/></r></p></e><!-- bamboo -->
+<e><p><l>molū<s n="adj"/></l><r>marera<s n="adj"/></r></p></e><!-- soft -->
+<e><p><l>kata<s n="v"/></l><r>mari<s n="v"/></r></p></e><!-- to laugh -->
+<e><p><l>hela<s n="v"/></l><r>marior<s n="v"/></r></p></e><!-- tired/exhausted -->
+<e><p><l>vela<s n="adj"/></l><r>mas<s n="adj"/></r></p></e><!-- hot -->
+<e><p><l>havehave<s n="adj"/></l><r>masasabu<s n="adj"/></r></p></e><!-- smashed/shattered -->
+<e><p><l>moʻui<s n="n"/></l><r>masaso<s n="n"/></r></p></e><!-- life/existence -->
+<e><p><l>nofo<s n="v"/></l><r>masoi<s n="v"/></r></p></e><!-- to sit (no location specified) -->
+<e><p><l>nofo<s n="v"/></l><r>maso<s n="v"/></r></p></e><!-- to sit (location specified) -->
+<e><p><l>kongi<s n="n"/></l><r>mawo<s n="n"/></r></p></e><!-- gong -->
+<e><p><l>hulohula<s n="v"/></l><r>maye<s n="v"/></r></p></e><!-- to dance -->
+<e><p><l>kupenga<s n="n"/></l><r>nawa<s n="n"/></r></p></e><!-- net -->
+<e><p><l>kato<s n="n"/></l><r>nawa<s n="n"/></r></p></e><!-- basket -->
+<e><p><l>pusi<s n="n"/></l><r>niau<s n="n"/></r></p></e><!-- cat -->
+<e><p><l>motu<s n="n"/></l><r>nu<s n="n"/></r></p></e><!-- island -->
+<e><p><l>fakamotu<s n="n"/></l><r><s n="n"/></r></p></e><!-- island life -->
+<e><p><l>hiva<s n="n"/></l><r>ranu<s n="n"/></r></p></e><!-- song -->
+<e><p><l>foha<s n="n"/></l><r><s n="n"/></r></p></e><!-- manʻs son -->
+<e><p><l>tama<s n="n"/></l><r><s n="n"/></r></p></e><!-- womanʻs son -->
+<e><p><l>ʻalo<s n="n"/></l><r><s n="n"/></r></p></e><!-- kingʻs son -->
+<e><p><l>lanu-moana<s n="n"/></l><r>rawana<s n="n"/></r></p></e><!-- blue -->
+<e><p><l>kalou<s n="n"/></l><r>rawe<s n="n"/></r></p></e><!-- crow -->
+<e><p><l>ongo<s n="v"/></l><r>rotu<s n="v"/></r></p></e><!-- make a sound -->
+<e><p><l>ongo<s n="n"/></l><r><s n="n"/></r></p></e><!-- sound -->
+<e><p><l>tao<s n="n"/></l><r>sananiai<s n="n"/></r></p></e><!-- spear -->
+<e><p><l>ava<s n="n"/></l><r>sora<s n="n"/></r></p></e><!-- gap;space -->
+<e><p><l>tamai<s n="n"/></l><r>tai<s n="n"/></r></p></e><!-- father -->
+<e><p><l>talanoa<s n="n"/></l><r>tatopa<s n="n"/></r></p></e><!-- story -->
+<e><p><l>mahili<s n="adj"/></l><r>tau tawa<s n="adj"/></r></p></e><!-- overlap with; be underneath -->
+<e><p><l>totonu<s n="adj"/></l><r>tindia<s n="adj"/></r></p></e><!-- straight;good -->
+<e><p><l>totonu<s n="adv"/></l><r><s n="adv"/></r></p></e><!-- straight;good -->
+<e><p><l>fehuʻi<s n="v"/></l><r>utanusara<s n="v"/></r></p></e><!-- ask -->
+<e><p><l>toʻomataʻu<s n="adj"/></l><r>vata<s n="adj"/></r></p></e><!-- rightside -->
+<e><p><l>foʻou<s n="adj"/></l><r>vavoru<s n="adj"/></r></p></e><!-- fresh/young/new -->
+<e><p><l>kumā<s n="n"/></l><r>wanggar<s n="n"/></r></p></e><!-- small mouse found in houses -->
+<e><p><l>louhiʻi vaʻe<s n="n"/></l><r>ai kiai<s n="n"/></r></p></e><!-- toe -->
+<e><p><l>nheʻesi-vaʻe<s n="n"/></l><r>ai kiai dire<s n="n"/></r></p></e><!-- toe nail -->
+<e><p><l>mounu<s n="n"/></l><r>anangganai<s n="n"/></r></p></e><!-- bait -->
+<e><p><l>kuava<s n="n"/></l><r>andori vesuwa<s n="n"/></r></p></e><!-- guava -->
+<e><p><l>fufuuʻi<s n="v"/></l><r>aniwar<s n="v"/></r></p></e><!-- conceal/hide -->
+<e><p><l>kopoa<s n="n"/></l><r>apor<s n="n"/></r></p></e><!-- catfish -->
+<e><p><l>lau<s n="v"/></l><r>ape<s n="v"/></r></p></e><!-- to read -->
+<e><p><l>pepe<s n="n"/></l><r>apopi<s n="n"/></r></p></e><!-- butterfly -->
+<e><p><l>teleʻa<s n="n"/></l><r>mapar<s n="n"/></r></p></e><!-- valley -->
+<e><p><l>tokalelei<s n="n"/></l><r>mapar<s n="n"/></r></p></e><!-- plain -->
+<e><p><l>mokopuna<s n="n"/></l><r>tapu<s n="n"/></r></p></e><!-- grandchild -->
+<e><p><l>fakahohaʻasi<s n="v"/></l><r>ngonggo<s n="v"/></r></p></e><!-- to bother -->
+<e><p><l>maveu<s n="adj"/></l><r>nganggau<s n="adj"/></r></p></e><!-- confused -->
+<e><p><l>niu<s n="n"/></l><r>anggadi<s n="n"/></r></p></e><!-- coconut -->
+<e><p><l>mongomonga<s n="n"/></l><r>inggeresi<s n="n"/></r></p></e><!-- cockroach -->
+<e><p><l>kongā<s n="n"/></l><r>manggar<s n="n"/></r></p></e><!-- yell -->
+<e><p><l>enga<s n="n"/></l><r>ningguai<s n="n"/></r></p></e><!-- turmeric -->
+<e><p><l>loto-mamahi<s n="n"/></l><r>wominggo<s n="n"/></r></p></e><!-- sorrow/grief -->
+<e><p><l>afi<s n="n"/></l><r>adia<s n="n"/></r></p></e><!-- fire -->
+<e><p><l>kupuʻiʻakau<s n="n"/></l><r>ai rumwaya<s n="n"/></r></p></e><!-- log;tree stump -->
+<e><p><l>teka<s n="n"/></l><r>ai vasor<s n="n"/></r></p></e><!-- sandal;lit. leg sole sheath -->
+<e><p><l>fatafata<s n="n"/></l><r>aro<s n="n"/></r></p></e><!-- chest (not sure if trunk or body??)-->
+<e><p><l>tuʻunga<s n="n"/></l><r>ate<s n="n"/></r></p></e><!-- ladder -->
+<e><p><l>hala<s n="n"/></l><r>ate<s n="n"/></r></p></e><!-- stair -->
+<e r="LR"><p><l>hapi<s n="n"/></l><r></r></p></e><!-- fish -->
+<e r="LR"><p><l>toke<s n="n"/></l><r></r></p></e><!-- sea eel -->
+<e r="LR"><p><l>toke<s n="v"/></l><r></r></p></e><!-- to cut up -->
+<e r="LR"><p><l>taʻa<s n="n"/></l><r></r></p></e><!-- red fish -->
+<e r="LR"><p><l>ʻulutuki<s n="n"/></l><r></r></p></e><!-- k. fish -->
+<e r="LR"><p><l>sea<s n="n"/></l><r></r></p></e><!-- chair -->
+<e r="LR"><p><l>ʻi<s n="pr"/></l><r></r></p></e><!-- on -->
+<e r="LR"><p><l>mo<s n="pr"/></l><r></r></p></e><!-- with -->
+<e r="LR"><p><l>maʻa<s n="pr"/></l><r></r></p></e><!-- for -->
+<e r="LR"><p><l>ki<s n="pr"/></l><r></r></p></e><!-- against -->
+<e><p><l>nui-tuitui<s n="n"/></l><r>ret<s n="n"/></r></p></e><!-- needle -->
+<e><p><l>Tohi Tapu<s n="n"/></l><r>repo<s n="n"/></r></p></e><!-- Bible -->
+<e><p><l>kekekeke<s n="v"/></l><r>kerat<s n="v"/></r></p></e><!--scream;shout -->
+<e><p><l>vaʻinga<s n="v"/></l><r>meire<s n="v"/></r></p></e><!--to play -->
+<e><p><l>tuʻasina<s n="v"/></l><r>memei<s n="v"/></r></p></e><!--uncle (maternal) -->
+<e><p><l>tamai<s n="v"/></l><r>memei<s n="v"/></r></p></e><!--uncle (paternal) -->
+<e><p><l>tau<s n="v"/></l><r>adiat<s n="v"/></r></p></e><!--to fish (wad - at night w/ lamp; ton - always followed by a fish) -->
+
+
+
+
+
+
+      <e><re>[.\?;:!…¿¶]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+      <e><re>,</re>          <p><l><s n="cm"/></l>  <r><s n="cm"/></r></p></e>
+
+
+
+   </section>
+
+
+</dictionary>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Bilingual_dictionary
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Bilingual_dictionary
+-->

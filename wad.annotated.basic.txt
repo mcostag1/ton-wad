@@ -1,0 +1,392 @@
+"<tusanevesie>"
+	"sanevesie" adj p1 du incl
+
+"<piota>"
+	"pota" adj p3 sg
+"<va>"
+	"va" v
+	"va" neg
+
+"<setisanevesie>"
+	"sanevesie" adj p3 pl hum
+
+"<pimunapat>"
+	"pimuna" n p1 sg poss
+
+"<wonapasiat>"
+	"wona" n pl def
+"<sipota>"
+	"pota" adj p3 pl nohum
+
+"<setikaviora>"
+	"kaviora" adj p3 pl hum
+ 
+"<amambekomamasare>"
+	"komasare" adj p1 pl excl
+ 
+"<Rebukipai>"
+	"rebuki" n sg def
+"<tiauwapa>"
+	"tauwa" v p3 sg unacf
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<iserei>"
+	"serei" v p1 sg
+"<ayapaipa>"
+	"ayapaipa" n unacf
+ 
+"<Kue>"
+	"Kue" n sg
+"<yapaima>"
+	"apai" v p1 sg
+"<dite>"
+	"dite" pr
+"<diadiva>"
+	"adiva" v p3 sg
+ 
+"<Ipanande>"
+	"panande" v p1 sg
+"<sinitupai>"
+	"sinitu" n sg def
+"<papopa>"
+	"papopa" t
+"<iserawai>"
+	"serawai" v p1 sg 
+ 
+"<Kodonei>"
+	"Kodonei" n sg def
+"<kota>"
+	"kota" v
+"<dias>"
+	"as" v p3 sg
+
+"<Kodonei>"
+	"Kodonei" n sg def
+"<kiota>"
+	"kota" v p3 sg
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irorasi>"
+	"rora" v p1 sg 
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irora>"
+	"rora" v p1 sg
+"<wonapasi>"
+	"wonapasi" n pl def
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<irora>"
+	"rora" v p1 sg
+"<si>"
+	"si" pr pl
+ 
+"<supota>"
+	"pota" adj p3 du
+ 
+"<sumbavu>"
+	"bavu" v p3 du
+ 
+"<mararia>"
+	"mararia" n pl def
+"<torua>"
+	"torua" pr p3 tr
+"<nesia>"
+	"nesia" v p3 pl
+"<sembaba>"
+	"ba" adj p3 tr int
+ 
+"<Wona>"
+	"wona" n sg
+"<nei>"
+	"nei" conj
+"<tunei>"
+	"tunei" n
+"<tiane?>"
+	"ane" v hab ?sent
+ 
+"<Yo>"
+	"o" v p1 sg
+"<yaniau>"
+	"aniau" v p1 sg
+"<we>"
+	"we" t
+"<kavio>"
+	"kavio" v
+"<Wamesa>"
+	"Wamesa" n 
+"<nei>"
+	"nei" conj
+"<avemamo>"
+	"avemamo" v
+"<irina>"
+	"rina" v p1 sg
+ 
+"<Ivavu>"
+	"vavu" v p1 sg
+"<so>"
+	"so" pr
+"<anio>"
+	"anio" n sg
+"<wa>"
+	"wa" det p1 sg poss
+ 
+"<Yo>"
+	"o" v p1 sg
+"<ivavore>"
+	"vavore" v p1 sg
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<yo>"
+	"o" v p1 sg
+"<ivavo>"
+	"vavo" v p1 sg
+ 
+"<moya>"
+	"moya" v 
+ 
+"<Yo>"
+	"o" v p1 sg
+"<yaniau>"
+	"aniau" v p1 sg
+"<yape>"
+	"ape" v p1 sg
+"<saira>"
+	"saira" adv
+ 
+"<Mia>"
+	"Mia" prn p2 pl
+"<kota>"
+	"kota" q
+"<meto>"
+	"o" v p2 pl
+"<saira>"
+	"saira" adv
+"<metaniau>"
+	"aniau" v p2 pl
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<ibaie>"
+	"baie" v p1 sg
+"<atuma>"
+	"atuma" n sg
+"<katu>"
+	"katu" adj
+ 
+"<Au>"
+	"au" prn p2 sg
+"<buiri>"
+	"biri" v p1 sg
+"<i>"
+	"i" prn p3 sg
+ 
+"<Pimuna>"
+	"pimuna" n
+"<nei>"
+	"nei" det sg def
+"<miaine>"
+	"maine" adj p3 pl
+"<ava>"
+	"ava" conj
+"<diane>"
+	"ane" v p3 sg
+"<dia>"
+	"dia" n
+ 
+"<Kokori>"
+	"Kokori" n
+"<ponori>"
+	"ponori" n
+"<nei>"
+	"nei" det sg def
+"<ma>"
+	"ma" t
+"<dite>"
+	"dite" adj p3 pl
+"<ne>"
+	"ne" det
+ 
+"<Pibata>"
+	"Pibata" n
+"<ponori>"
+	"ponori" n
+"<nei>"
+	"nei" det sg def
+"<kiriria>"
+	"kiriria" adj p3 sg
+ 
+"<muna>"
+	"muna" v p3 sg
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<wo>"
+	"wo" v 
+"<munai>"
+	"munai" v
+ 
+"<Uta>"
+	"Uta" n
+"<nei>"
+	"nei" det sg def
+"<sa>"
+	"sa" t
+"<muna>"
+	"muna" v p3 sg
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<Raria>"
+	"raria" n
+"<katu>"
+	"katu" adj p3 sg
+"<nina>"
+	"nina" det pl def
+"<si>"
+	"si" prn p3 pl
+"<ma>"
+	"ma" t
+"<muna>"
+	"muna" v p3 sg
+ 
+"<Kausapa>"
+	"Kausapa" pr
+"<nani>"
+	"nani" 
+"<muna>"
+	"muna" v p3 sg
+"<ya>"
+	"ya" adv
+"<te>"
+	"te" t
+ 
+"<Buniau>"
+	"niau" v p2 sg
+"<taun>"
+	"taun" n
+"<toyane>"
+	"toyane" v
+ 
+"<sandu>"
+	"sandu" pr p3 du
+"<sunai>"
+	"nai" v p3 du
+"<na>"
+	"na" pr
+"<Amerika>"
+	"Amerika" n
+ 
+"<muna>"
+	"muna" v p3 sg
+"<tindi>"
+	"tindi" adv
+"<va>"
+	"va" v
+	"va" neg
+ 
+"<toune>"
+	"toune" n 
+"<muandu>"
+	"muandu" n du
+"<ya>"
+	"ya" adv
+"<imanau>"
+	"manau" v p1 sg
+"<yaniau>"
+	"aniau" v p1 sg
+ 
+"<Wore>"
+	"Wore" n
+"<pai>"
+	"pai" det
+"<disa>"
+	"disa" v p3 sg
+"<ya>"
+	"ya" adv
+ 
+"<wore>"
+	"wore" n
+"<pai>"
+	"pai" det
+"<tiviare>"
+	"vare" n p3 sg hab
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<ivui>"
+	"vui" v p1 sg
+"<kavio>"
+	"kavio" n 
+"<Windesi>"
+	"Windesi" n
+ 
+"<yimbuya>"
+	"imbuya" v p1 sg unacf
+ 
+"<Yau>"
+	"yau" prn p1 sg
+"<iririot>"
+	"ririot" adj
+"<varami>"
+	"varami" pr
+ 
+"<Buo>"
+	"o" v p2 sg
+"<vitoi>"
+	"vitoi" n
+ 
+"<Seto>"
+	"o" v p3 pl hum
+"<vitoi>"
+	"vitoi" n
+ 
+"<vienadi>"
+	"nadi" v p3 sg
+ 
+"<niadi>"
+	"nadi" v p3 sg 
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<yara>"
+	"ara" v p1 sg
+ 
+"<imatai>"
+	"matai" adj p1 sg
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<yane>"
+	"ane" v p1 sg
+"<dia>"
+	"dia" n
+ 
+"<i>"
+	"i" prn p3 sg
+"<kota>"
+	"kota" v
+"<tiawa>"
+	"tawa" v p3 sg
+ 
+"<yau>"
+	"yau" prn p1 sg
+"<ikari>"
+	"kari" v p1 sg
+"<wona.>"
+	"wona" n .sent
+
+"<yau>"
+	"yau" prn p1 sg
+"<yurar>"
+	"urar" v p1 sg
+ 
+
+

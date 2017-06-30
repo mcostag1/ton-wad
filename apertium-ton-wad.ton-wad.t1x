@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transfer default="chunk">
+  <section-def-cats>
+ <def-cat n="sent">
+      <cat-item tags="sent"/>
+    </def-cat>
+    <def-cat n="vaux">
+      <cat-item lemma="oku" tags="vaux"/>
+    </def-cat>
+    <def-cat n="neg">
+      <cat-item tags="neg"/>
+    </def-cat>
+    <def-cat n="adjectives">
+      <cat-item lemma="puke" tags="adj"/>
+      <cat-item lemma="'ikai" tags="neg"/>
+    </def-cat>
+    <def-cat n="pronouns">
+      <cat-item lemma="ke" tags="prn"/>
+    </def-cat>
+    <def-cat n="poss">
+      <cat-item lemma="siʻaku" tags="poss"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_prn">
+      <attr-item tags="prepd"/>
+      <attr-item tags="postd"/>
+    </def-attr>
+   <def-attr n="a_neg">
+      <attr-item tags="neg"/>
+    </def-attr>
+    <def-attr n="a_person">
+      <attr-item tags="p1"/>
+      <attr-item tags="p2"/>
+      <attr-item tags="p3"/>
+    </def-attr>
+    <def-attr n="a_tense">
+      <attr-item tags="pres"/>
+    </def-attr>
+    <def-attr n="a_num">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+      <attr-item tags="du"/>
+    </def-attr>
+    <def-attr n="a_siʻaku">
+      <attr-item tags="poss"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="number"/>
+    <def-var n="negative"/>
+    <def-var n="var_siʻaku"/>
+  </section-def-vars>
+
+  <section-def-macros>
+    <def-macro n="test" npar="1">
+          <let>
+            <var n="number"/>
+            <lit v=""/>
+          </let>
+    </def-macro>
+  </section-def-macros>
+
+  <section-rules>
+
+
+    <rule comment="REGLA: NEGATIVE">
+	
+      <pattern>
+        <pattern-item n="neg"/>
+      </pattern>
+      <action>
+		<let>
+	   		<var n="negative"/>
+	   		<lit v="neg"/>
+		</let>
+        <out>
+        <chunk name="neg" case="temp">
+			<tags>
+		    	<tag><lit-tag v="NEG"/></tag>
+		    </tags>
+	 		<lu>
+				<lit v=""/>
+		    </lu> 
+			</chunk>
+		</out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+		<choose>
+		<when>
+		  <test>
+			<equal>
+				<var n="negative"/>
+				<lit v="neg"/>
+			</equal>
+		  </test>
+		  <out>
+			<b/>	
+		  	<chunk name="sent" case="caseFirstWord">
+				<tags>
+		        	<tag><lit-tag v="SENT"/></tag>
+		        </tags>
+				<lu>
+					<lit v="va"/>
+					<lit-tag v="neg"/>
+				</lu>
+			
+		    </chunk>
+				  
+			</out>
+		</when>
+		</choose>
+			<out>
+		     	<chunk name="sent" case="caseFirstWord">
+				  <tags>
+		          	<tag><lit-tag v="SENT"/></tag>
+		          </tags>
+		          <lu>
+		          	<clip pos="1" side="tl" part="whole"/>
+		          </lu> 
+		      	</chunk>
+		        </out>
+      </action>
+    </rule>
+
+<!--
+  <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+-->
+
+  </section-rules>
+</transfer>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Chunking:_A_full_example
+    http://wiki.apertium.org/wiki/Chunking
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
+    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
+    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
+-->

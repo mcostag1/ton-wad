@@ -1,0 +1,337 @@
+# sent_id = prefix:1:0
+# text = tusanevesie
+1	tusanevesie	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:2:2
+# text = piota va
+1	piota	_	_	_	_	0	root	_	_
+2	va	_	_	_	_	1	advmod	_	_
+
+# sent_id = prefix:3:7
+# text = setisanevesie
+1	setisanevesie	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:4:10
+# text = pimunapat
+1	pimunapat	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:5:13
+# text = wonapasiat sipota
+1	wonapasiat	_	_	_	_	2	nsubj	_	_
+2	sipota	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:6:18
+# text = setikaviora
+1	setikaviora	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:7:21
+# text =  amambekomamasare
+1	amambekomamasare	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:8:24
+# text = Rebukipai tiauwapa
+1	Rebukipai	_	_	_	_	2	nsubj	_	_
+2	tiauwapa	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:9:29
+# text =  Yau iserei ayapaipa
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	iserei	_	_	_	_	0	root	_	_
+3	ayapaipa	_	_	_	_	2	nobj	_	_
+
+# sent_id = prefix:10:36
+# text =  Kue yapaima dite diadiva
+1	Kue	_	_	_	_	4	nsubj	_	_
+2	yapaima	_	_	_	_	1	acl	_	_
+3	dite	_	_	_	_	1	obl	_	_
+4	diadiva	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:11:45
+# text =  Ipanande sinitupai papopa iserawai
+1	Ipanande	_	_	_	_	0	root	_	_
+2	sinitupai	_	_	_	_	1	obj	_	_
+3	papopa	_	_	_	_	4	advcl	_	_
+4	iserawai	_	_	_	_	2	acl	_	_
+
+# sent_id = prefix:12:54
+# text =  Kodonei kota dias
+1	Kodonei	_	_	_	_	3	nsubj	_	_
+2	kota	_	_	_	_	1	amod	_	_
+3	dias	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:13:61
+# text = Kodonei kiota
+1	Kodonei	_	_	_	_	2	nsubj	_	_
+2	kiota	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:14:66
+# text =  Yau irorasi
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	irorasi	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:15:71
+# text =  Yau irora wonapasi
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	irora	_	_	_	_	0	root	_	_
+3	wonapasi	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:16:78
+# text =  Yau irora si
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	irora	_	_	_	_	0	root	_	_
+3	si	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:17:85
+# text =  supota
+1	supota	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:18:88
+# text =  sumbavu
+1	sumbavu	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:19:91
+# text =  mararia torua nesia sembaba
+1	mararia	_	_	_	_	4	nsubj	_	_
+2	torua	_	_	_	_	1	obl	_	_
+3	nesia	_	_	_	_	4	aux	_	_
+4	sembaba	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:20:100
+# text =  Wona nei tunei tiane?
+1	Wona	_	_	_	_	3	nmod	_	_
+2	nei	_	_	_	_	1	det	_	_
+3	tunei	_	_	_	_	4	nsubj	_	_
+4	tiane?	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:21:109
+# text =  Yo yaniau we kavio Wamesa nei avemamo irina
+1	Yo	_	_	_	_	0	root	_	_
+2	yaniau	_	_	_	_	1	advcl	_	_
+3	we	_	_	_	_	4	aux	_	_
+4	kavio	_	_	_	_	1	advcl	_	_
+5	Wamesa	_	_	_	_	4	obj	_	_
+6	nei	_	_	_	_	8	advmod	_	_
+7	avemamo	_	_	_	_	8	aux	_	_
+8	irina	_	_	_	_	4	advcl	_	_
+
+# sent_id = prefix:22:126
+# text =  Ivavu so anio wa
+1	Ivavu	_	_	_	_	0	root	_	_
+2	so	_	_	_	_	3	advmod	_	_
+3	anio	_	_	_	_	1	obj	_	_
+4	wa	_	_	_	_	3	det	_	_
+
+# sent_id = prefix:23:135
+# text =  Yo ivavore
+1	Yo	_	_	_	_	0	root	_	_
+2	ivavore	_	_	_	_	1	advcl	_	_
+
+# sent_id = prefix:24:140
+# text =  Yau yo ivavo
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	yo	_	_	_	_	0	root	_	_
+3	ivavo	_	_	_	_	2	advcl	_	_
+
+# sent_id = prefix:25:147
+# text =  moya
+1	moya	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:26:150
+# text =  Yo yaniau yape saira
+1	Yo	_	_	_	_	0	root	_	_
+2	yaniau	_	_	_	_	1	advcl	_	_
+3	yape	_	_	_	_	2	advcl	_	_
+4	saira	_	_	_	_	3	advmod	_	_
+
+# sent_id = prefix:27:159
+# text =  Mia kota meto saira metaniau
+1	Mia	_	_	_	_	3	nsubj	_	_
+2	kota	_	_	_	_	1	X	_	_
+3	meto	_	_	_	_	0	root	_	_
+4	saira	_	_	_	_	5	advmod	_	_
+5	metaniau	_	_	_	_	3	advcl	_	_
+
+# sent_id = prefix:28:170
+# text =  Yau ibaie atuma katu
+1	Yau	_	_	_	_	0	nsubj	_	_
+2	ibaie	_	_	_	_	0	root	_	_
+3	atuma	_	_	_	_	2	obj	_	_
+4	katu	_	_	_	_	3	amod	_	_
+
+# sent_id = prefix:29:179
+# text =  Au buiri i
+1	Au	_	_	_	_	2	nsubj	_	_
+2	buiri	_	_	_	_	0	root	_	_
+3	i	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:30:186
+# text =  Pimuna nei miaine ava diane dia
+1	Pimuna	_	_	_	_	3	nsubj	_	_
+2	nei	_	_	_	_	1	det	_	_
+3	miaine	_	_	_	_	0	root	_	_
+4	ava	_	_	_	_	3	conj	_	_
+5	diane	_	_	_	_	4	advcl	_	_
+6	dia	_	_	_	_	5	obj	_	_
+
+# sent_id = prefix:31:199
+# text =  Kokori ponori nei ma dite ne
+1	Kokori	_	_	_	_	2	nmod	_	_
+2	ponori	_	_	_	_	5	nsubj	_	_
+3	nei	_	_	_	_	2	det	_	_
+4	ma	_	_	_	_	5	cop	_	_
+5	dite	_	_	_	_	0	root	_	_
+6	ne	_	_	_	_	5	cop	_	_
+
+# sent_id = prefix:32:212
+# text =  Pibata ponori nei kiriria
+1	Pibata	_	_	_	_	2	nmod	_	_
+2	ponori	_	_	_	_	4	nsubj	_	_
+3	nei	_	_	_	_	2	det	_	_
+4	kiriria	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:33:221
+# text =  muna va
+1	muna	_	_	_	_	0	root	_	_
+2	va	_	_	_	_	1	advmod	_	_
+
+# sent_id = prefix:34:226
+# text =  wo munai
+1	wo	_	_	_	_	0	root	_	_
+2	munai	_	_	_	_	1	advcl	_	_
+
+# sent_id = prefix:35:231
+# text =  Uta nei sa muna va
+1	Uta	_	_	_	_	4	nsubj	_	_
+2	nei	_	_	_	_	1	det	_	_
+3	sa	_	_	_	_	4	aux	_	_
+4	muna	_	_	_	_	0	root	_	_
+5	va	_	_	_	_	4	advmod	_	_
+
+# sent_id = prefix:36:242
+# text =  Raria katu nina si ma muna
+1	Raria	_	_	_	_	6	nsubj	_	_
+2	katu	_	_	_	_	1	amod	_	_
+3	nina	_	_	_	_	1	det	_	_
+4	si	_	_	_	_	1	obl	_	_
+5	ma	_	_	_	_	6	aux	_	_
+6	muna	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:37:255
+# text =  Kausapa nani muna ya te
+1	Kausapa	_	_	_	_	2	advmod	_	_
+2	nani	_	_	_	_	3	csubj	_	_
+3	muna	_	_	_	_	0	root	_	_
+4	ya	_	_	_	_	3	advmod	_	_
+5	te	_	_	_	_	3	aux	_	_
+
+# sent_id = prefix:38:266
+# text =  Buniau taun toyane
+1	Buniau	_	_	_	_	3	advcl	_	_
+2	taun	_	_	_	_	1	obj	_	_
+3	toyane	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:39:273
+# text =  sandu sunai na Amerika
+1	sandu	_	_	_	_	2	nsubj	_	_
+2	sunai	_	_	_	_	0	root	_	_
+3	na	_	_	_	_	4	advmod	_	_
+4	Amerika	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:40:282
+# text =  muna tindi va
+1	muna	_	_	_	_	0	root	_	_
+2	tindi	_	_	_	_	1	advmod	_	_
+3	va	_	_	_	_	1	advmod	_	_
+
+# sent_id = prefix:41:289
+# text =  toune muandu ya imanau yaniau
+1	toune	_	_	_	_	4	nsubj	_	_
+2	muandu	_	_	_	_	1	obl	_	_
+3	ya	_	_	_	_	4	advmod	_	_
+4	imanau	_	_	_	_	0	root	_	_
+5	yaniau	_	_	_	_	4	advcl	_	_
+
+# sent_id = prefix:42:300
+# text =  Wore pai disa ya
+1	Wore	_	_	_	_	3	nsubj	_	_
+2	pai	_	_	_	_	1	det	_	_
+3	disa	_	_	_	_	0	root	_	_
+4	ya	_	_	_	_	3	advmod	_	_
+
+# sent_id = prefix:43:309
+# text =  wore pai tiviare
+1	wore	_	_	_	_	3	nsubj	_	_
+2	pai	_	_	_	_	1	det	_	_
+3	tiviare	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:44:316
+# text =  Yau ivui kavio Windesi
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	ivui	_	_	_	_	0	root	_	_
+3	kavio	_	_	_	_	2	advcl	_	_
+4	Windesi	_	_	_	_	3	obj	_	_
+
+# sent_id = prefix:45:325
+# text =  yimbuya
+1	yimbuya	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:46:328
+# text =  Yau iririot varami
+1	Yau	_	_	_	_	2	nsubj	_	_
+2	iririot	_	_	_	_	0	root	_	_
+3	varami	_	_	_	_	2	advmod	_	_
+
+# sent_id = prefix:47:335
+# text =  Buo vitoi
+1	Buo	_	_	_	_	0	root	_	_
+2	vitoi	_	_	_	_	1	obj	_	_
+
+# sent_id = prefix:48:340
+# text =  Seto vitoi
+1	Seto	_	_	_	_	0	root	_	_
+2	vitoi	_	_	_	_	1	obj	_	_
+
+# sent_id = prefix:49:345
+# text =  vienadi
+1	vienadi	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:50:348
+# text =  niadi
+1	niadi	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:51:351
+# text =  yau yara
+1	yau	_	_	_	_	2	nsubj	_	_
+2	yara	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:52:356
+# text =  imatai
+1	imatai	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:53:359
+# text =  yau yane dia
+1	yau	_	_	_	_	2	nsubj	_	_
+2	yane	_	_	_	_	0	root	_	_
+3	dia	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:54:366
+# text =  i kota tiawa
+1	i	_	_	_	_	3	nsubj	_	_
+2	kota	_	_	_	_	1	clf	_	_
+3	tiawa	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:55:373
+# text =  yau ikari wona.
+1	yau	_	_	_	_	2	nsubj	_	_
+2	ikari	_	_	_	_	0	root	_	_
+3	wona.	_	_	_	_	2	obj	_	_
+
+# sent_id = prefix:56:381
+# text = yau yurar
+1	yau	_	_	_	_	2	nsubj	_	_
+2	yurar	_	_	_	_	0	root	_	_
+
+# sent_id = prefix:57:387
+# text = 
+
+

@@ -1,0 +1,386 @@
+"<tusanevesie>"
+	"sanevesie" adj p1 du incl @root #1->0
+
+"<piota>"
+	"pota" adj p3 sg @root #1->0
+"<va>"
+	"va" neg @advmod #2->1
+
+"<setisanevesie>"
+	"sanevesie" adj p3 pl hum @root #1->0
+
+"<pimunapat>"
+	"pimuna" n p1 sg poss @root #1->0
+
+"<wonapasiat>"
+	"wona" n pl def @nsubj #1->2
+"<sipota>"
+	"pota" adj p3 pl nohum @root #2->0
+
+"<setikaviora>"
+	"kaviora" adj p3 pl hum @root #1->0
+ 
+"<amambekomamasare>"
+	"komasare" adj p1 pl excl @root #1->0
+
+"<Rebukipai>"
+	"rebuki" n sg def @nsubj #1->2
+"<tiauwapa>"
+	"tauwa" v p3 sg unacf @root #2->0
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<iserei>"
+	"serei" v p1 sg @root #2->0
+"<ayapaipa>"
+	"ayapaipa" n unacf @nobj #3->2
+ 
+"<Kue>"
+	"Kue" n sg @nsubj #1->4
+"<yapaima>"
+	"apai" v p1 sg @acl #2->1
+"<dite>"
+	"dite" pr @obl #3->1
+"<diadiva>"
+	"adiva" v p3 sg @root #4->0
+ 
+"<Ipanande>"
+	"panande" v p1 sg @root #1->0
+"<sinitupai>"
+	"sinitu" n sg def @obj #2->1
+"<papopa>"
+	"papopa" pr @advcl #3->4
+"<iserawai>"
+	"serawai" v p1 sg @acl #4->2
+ 
+"<Kodonei>"
+	"Kodonei" n sg def @nsubj #1->3
+"<kota>"
+	"kota" adj @amod #2->1
+"<dias>"
+	"as" v p3 sg @root #3->0
+
+"<Kodonei>"
+	"Kodonei" n sg def @nsubj #1->2
+"<kiota>"
+	"kota" adj p3 sg @root #2->0
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<irorasi>"
+	"rora" v p1 sg @root #2->0
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<irora>"
+	"rora" v p1 sg @root #2->0
+"<wonapasi>"
+	"wonapasi" n pl def @obj #3->2
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<irora>"
+	"rora" v p1 sg @root #2->0
+"<si>"
+	"si" pr p3 pl nohum @obj #3->2
+ 
+"<supota>"
+	"pota" adj p3 du @root #1->0
+ 
+"<sumbavu>"
+	"bavu" v p3 du @root #1->0
+ 
+"<mararia>"
+	"mararia" n pl def @nsubj #1->4
+"<torua>"
+	"torua" pr p3 tr @obl #2->1
+"<nesia>"
+	"nesia" v p3 pl @aux #3->4
+"<sembaba>"
+	"ba" adj p3 tr int @root #4->0
+ 
+"<Wona>"
+	"wona" n sg @nmod #1->3
+"<nei>"
+	"nei" det def @det #2->1
+"<tunei>"
+	"tunei" n @nsubj #3->4
+"<tiane?>"
+	"ane" v hab ?sent @root #4->0
+ 
+"<Yo>"
+	"o" v p1 sg @root #1->0
+"<yaniau>"
+	"aniau" v p1 sg @advcl #2->1
+"<we>"
+	"we" t @aux #3->4
+"<kavio>"
+	"kavio" v @advcl #4->1
+"<Wamesa>"
+	"Wamesa" n @obj #5->4
+"<nei>"
+	"nei" pr @advmod #6->8
+"<avemamo>"
+	"avemamo" v @aux #7->8
+"<irina>"
+	"rina" v p1 sg @advcl #8->4
+ 
+"<Ivavu>"
+	"vavu" v p1 sg @root #1->0
+"<so>"
+	"so" pr @advmod #2->3
+"<anio>"
+	"anio" n sg @obj #3->1
+"<wa>"
+	"wa" det p1 sg poss @det #4->3
+ 
+"<Yo>"
+	"o" v p1 sg @root #1->0
+"<ivavore>"
+	"vavore" v p1 sg @advcl #2->1
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<yo>"
+	"o" v p1 sg @root #2->0
+"<ivavo>"
+	"vavo" v p1 sg @advcl #3->2
+ 
+"<moya>"
+	"moya" v @root #1->0
+ 
+"<Yo>"
+	"o" v p1 sg @root #1->0
+"<yaniau>"
+	"aniau" v p1 sg @advcl #2->1
+"<yape>"
+	"ape" v p1 sg @advcl #3->2
+"<saira>"
+	"saira" adv @advmod #4->3
+ 
+"<Mia>"
+	"Mia" prn p2 pl @nsubj #1->3
+"<kota>"
+	"kota" q #clf #2->1
+"<meto>"
+	"o" v p2 pl @root #3->0
+"<saira>"
+	"saira" adv @advmod #4->5
+"<metaniau>"
+	"aniau" v p2 pl @advcl #5->3
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->0
+"<ibaie>"
+	"baie" v p1 sg @root #2->0
+"<atuma>"
+	"atuma" n sg @obj #3->2
+"<katu>"
+	"katu" adj @amod #4->3
+ 
+"<Au>"
+	"au" prn p2 sg @nsubj #1->2
+"<buiri>"
+	"biri" v p2 sg @root #2->0
+"<i>"
+	"i" prn p3 sg @obj #3->2
+ 
+"<Pimuna>"
+	"pimuna" n @nsubj #1->3
+"<nei>"
+	"nei" det sg def @det #2->1
+"<miaine>"
+	"maine" adj p3 pl @root #3->0
+"<ava>"
+	"ava" conj @conj #4->3
+"<diane>"
+	"ane" v p3 sg @advcl #5->4
+"<dia>"
+	"dia" n @obj #6->5
+ 
+"<Kokori>"
+	"Kokori" n @nmod #1->2
+"<ponori>"
+	"ponori" n @nsubj #2->5
+"<nei>"
+	"nei" det sg def @det #3->2
+"<ma>"
+	"ma" t @cop #4->5
+"<dite>"
+	"dite" adj p3 pl @root #5->0
+"<ne>"
+	"ne" det @cop #6->5
+ 
+"<Pibata>"
+	"Pibata" n @nmod #1->2
+"<ponori>"
+	"ponori" n @nsubj #2->4
+"<nei>"
+	"nei" det sg def @det #3->2
+"<kiriria>"
+	"kiriria" adj p3 sg @root #4->0
+ 
+"<muna>"
+	"muna" v p3 sg @root #1->0
+"<va>"
+	"va" neg @advmod #2->1
+ 
+"<wo>"
+	"wo" v @root #1->0
+"<munai>"
+	"munai" v @advcl #2->1
+ 
+"<Uta>"
+	"Uta" n @nsubj #1->4
+"<nei>"
+	"nei" det sg def @det #2->1
+"<sa>"
+	"sa" t @aux #3->4
+"<muna>"
+	"muna" v p3 sg @root #4->0
+"<va>"
+	"va" neg @advmod #5->4
+ 
+"<Raria>"
+	"raria" n @nsubj #1->6
+"<katu>"
+	"katu" adj p3 sg @amod #2->1
+"<nina>"
+	"nina" det pl def @det #3->1
+"<si>"
+	"si" prn p3 pl @obl #4->1
+"<ma>"
+	"ma" t @aux #5->6
+"<muna>"
+	"muna" v p3 sg @root #6->0
+ 
+"<Kausapa>"
+	"Kausapa" pr @advmod #1->2
+"<nani>"
+	"nani" pr @csubj #2->3
+"<muna>"
+	"muna" v p3 sg @root #3->0
+"<ya>"
+	"ya" adv @advmod #4->3
+"<te>"
+	"te" t @aux #5->3
+ 
+"<Buniau>"
+	"niau" v p2 sg @advcl #1->3
+"<taun>"
+	"taun" n @obj #2->1
+"<toyane>"
+	"toyane" v @root #3->0
+ 
+"<sandu>"
+	"sandu" pr p3 du @nsubj #1->2
+"<sunai>"
+	"nai" v p3 du @root #2->0
+"<na>"
+	"na" pr @advmod #3->4
+"<Amerika>"
+	"Amerika" n @obj #4->2
+ 
+"<muna>"
+	"muna" v p3 sg @root #1->0
+"<tindi>"
+	"tindi" adv @advmod #2->1
+"<va>"
+	"va" neg @advmod #3->1
+ 
+"<toune>"
+	"toune" n @nsubj #1->4
+"<muandu>"
+	"muandu" n du @obl #2->1
+"<ya>"
+	"ya" adv @advmod #3->4
+"<imanau>"
+	"manau" v p1 sg @root #4->0
+"<yaniau>"
+	"aniau" v p1 sg @advcl #5->4
+ 
+"<Wore>"
+	"Wore" n @nsubj #1->3
+"<pai>"
+	"pai" det @det #2->1
+"<disa>"
+	"disa" v p3 sg @root #3->0
+"<ya>"
+	"ya" adv @advmod #4->3
+ 
+"<wore>"
+	"wore" n @nsubj #1->3
+"<pai>"
+	"pai" det @det #2->1
+"<tiviare>"
+	"vare" n p3 sg hab @root #3->0
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<ivui>"
+	"vui" v p1 sg @root #2->0
+"<kavio>"
+	"kavio" v @advcl #3->2
+"<Windesi>"
+	"Windesi" n @obj #4->3
+ 
+"<yimbuya>"
+	"imbuya" v p1 sg unacf @root #1->0
+ 
+"<Yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<iririot>"
+	"ririot" adj @root #2->0
+"<varami>"
+	"varami" pr @advmod #3->2
+ 
+"<Buo>"
+	"o" v p2 sg @root #1->0
+"<vitoi>"
+	"vitoi" n @obj #2->1
+ 
+"<Seto>"
+	"o" v p3 pl hum @root #1->0
+"<vitoi>"
+	"vitoi" n @obj #2->1
+ 
+"<vienadi>"
+	"nadi" v p3 sg @root #1->0
+ 
+"<niadi>"
+	"nadi" v p3 sg @root #1->0
+ 
+"<yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<yara>"
+	"ara" v p1 sg @root #2->0
+ 
+"<imatai>"
+	"matai" adj p1 sg @root #1->0
+ 
+"<yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<yane>"
+	"ane" v p1 sg @root #2->0
+"<dia>"
+	"dia" n @obj #3->2
+ 
+"<i>"
+	"i" prn p3 sg @nsubj #1->3
+"<kota>"
+	"kota" q @clf #2->1
+"<tiawa>"
+	"tawa" v p3 sg @root #3->0
+ 
+"<yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<ikari>"
+	"kari" v p1 sg @root #2->0
+"<wona.>"
+	"wona" n .sent @obj #3->2
+
+"<yau>"
+	"yau" prn p1 sg @nsubj #1->2
+"<yurar>"
+	"urar" v p1 sg @root #2->0
+ 
